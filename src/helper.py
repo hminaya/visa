@@ -20,6 +20,21 @@ def file_remove_str(filename, list_strings):
     fin.write(data)
     fin.close()
 
+def file_transform_lines(filename, list_strings):
+    fin = open(filename, "rt")
+    data = fin.read()
+    data = data.lower()
+
+    for strng in list_strings:
+        #print(strng)
+        data = data.replace(strng[0].lower(), strng[1].lower())
+ 
+    fin.close()
+
+    fin = open(filename, "wt")
+    fin.write(data)
+    fin.close()
+
 def clean_working_dir(directory):
     files = os.scandir(directory)
     

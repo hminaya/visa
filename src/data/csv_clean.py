@@ -36,7 +36,17 @@ unwanted_lines = [
     'January', 'February', 'March', 'April',
     'May', 'June', 'July', 'August', 
     'September', 'October', 'November', 'December',
-    '(fy '
+    '(fy ',
+    'grand total'
+]
+transform_strings = [
+    ['bahamas, the', 'the bahamas'],
+    ['congo, democratic republic of the', 'democratic republic of the congo'],
+    ['congo, republic of the', 'republic of the congo'],
+    ['gambia, the', 'the gambia'],
+    ['korea, north', 'north korea'],
+    ['korea, south', 'south korea'],
+    ['micronesia, federated states of', 'federated states of micronesia'],
 ]
 
 def clean_working_dir():
@@ -63,6 +73,9 @@ def clean_up_file(fl):
 
     # Remove empty lines
     helper.file_remove_empty_lines(fl.path)
+
+    # Transform lines
+    helper.file_transform_lines(fl.path, transform_strings)
 
 def clean_up_data():
     print('🧹 Cleaning up data inside files')
