@@ -1,0 +1,133 @@
+VisaClass|Category|SubCategory|Description
+IR1|Immediate Relatives|General|Spouse of U.S. citizen 201(b)
+IR2|Immediate Relatives|General|Child of U.S. citizen 201(b)
+IR3|Immediate Relatives|General|Orphan adopted abroad by U.S. citizen 201(b)
+IR4|Immediate Relatives|General|Orphan to be adopted in the United States by U.S. citizen 201(b)
+IR5|Immediate Relatives|General|Parent of U.S. citizen at least 21 years of age 201(b)
+IH3|Immediate Relatives|General|Child adopted abroad by U.S. citizen under Hague Convention
+IH4|Immediate Relatives|General|Child to be adopted in U.S. by U.S. citizen under Hague Convention
+CR1|Immediate Relatives|General|Spouse of U.S. citizen (conditional status) 201(b) & 216
+CR2|Immediate Relatives|General|Child of U.S. citizen (conditional status) 201(b) & 216
+IW1|Immediate Relatives|General|Certain spouses of deceased U.S. citizens 201(b)
+IW2|Immediate Relatives|General|Child of IW-1 201(b)
+IB1|Immediate Relatives|General|Self-petition spouse of U.S. citizen 204(a)(1)(A)(iii)
+IB2|Immediate Relatives|General|Self-petition child of U.S. citizen 204(a)(1)(A)(iv)
+IB3|Immediate Relatives|General|Child of IB-1 204(a)(1)(A)(iii)
+VI5|Immediate Relatives|General|Parent of U.S. citizen who acquired permanent resident status under the
+AM1|Vietnam Amerasian Immigrants|General|Vietnam Amerasian principal 584(b)(1)(A), (B),
+AM2|Vietnam Amerasian Immigrants|General|Spouse/Child of AM-1
+AM3|Vietnam Amerasian Immigrants|General|Natural mother of AM-1 (and spouse or child of such mother)
+SB1|Special Immigrants|General|Returning resident 101(a)(27)(A)
+SC1|Special Immigrants|General|Certain persons who lost U.S. citizenship by marriage 101(a)(27)(B) & 324(a)
+SC2|Special Immigrants|General|Certain persons who lost U.S. citizenship by serving in foreign armed forces 101(a)(27)(B) & 327
+SI1|Special Immigrants|General|Certain aliens employed by the U.S. Government in Iraq or Afghanistan as translators or interpreters
+SI2|Special Immigrants|General|Spouse of SI-1 
+SI3|Special Immigrants|General|Child of SI-1 
+SM1|Special Immigrants|General|Alien recruited outside the United States who has served or is enlisted to serve in the U.S. Armed Forces for 12 years
+SM2|Special Immigrants|General|Spouse of SM1 101(a)(27)(K)
+SM3|Special Immigrants|General|Child of SM1 101(a)(27)(K)
+SQ1|Special Immigrants|General|Certain Iraqis or Afghans employed by or on behalf of the U.S. Government
+SQ2|Special Immigrants|General|Spouse of SQ1 
+SQ3|Special Immigrants|General|Child of SQ1 Section 602(b)
+SU2|Special Immigrants|General|Spouse of U1 INA 245(m)(3) & INA 101(a)(15)(U)(ii)
+SU3|Special Immigrants|General|Child of U1 INA 245(m)(3) & INA 101(a)(15)(U)(ii)
+SU5|Special Immigrants|General|Parent of U1 INA 245(m)(3) & INA 101(a)(15)(U)(ii)
+F11|Family-Sponsored Preferences|Family 1st Preference|Unmarried son or daughter of U.S. citizen 203(a)(1)
+F12|Family-Sponsored Preferences|Family 1st Preference|Child of F11 203(d) & 203(a)(1)
+B11|Family-Sponsored Preferences|Family 1st Preference|Self-petition unmarried son or daughter of U.S. citizen 204(a)(1)(A)(iv) & 203(a)(1)
+B12|Family-Sponsored Preferences|Family 1st Preference|Child of B11 203(d) &204 (a)(1)(A)(iv) & 203(a)(1)
+F21|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Spouse of lawful permanent resident 203(a)(2)(A)
+F22|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Child of lawful permanent resident 203(a)(2)(A)
+F23|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Child of F21 or F22 203(d) & 203(a)(2)(A)
+F24|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Unmarried son or daughter of lawful permanent resident 203(a)(2)(B)
+F25|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Child of F24 203(d) & 203(a)(2)(B)
+C21|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Spouse of lawful permanent resident (conditional) 203(a)(2)(A) & 216
+C22|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Child of alien resident (conditional) 203(a)(2)(A) & 216
+C23|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Child of C21 or C22 (conditional) 203(d) & 203(a)(2)(A) & 216
+C24|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Unmarried son or daughter of lawful permanent resident (conditional) 203(a)(2)(B) & 216
+C25|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Child of F24 (conditional) 203(d) & 203(a)(2)(B) & 216
+B21|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Self-petition spouse of lawful permanent resident 204(a)(1)(B)(ii)
+B22|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Self-petition child of lawful permanent resident 204(a)(1)(B)(iii)
+B23|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Child of B21 or B22 203(d) & 204(a)(1)(B)(ii)
+B24|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Self-petition unmarried son or daughter of lawful permanent resident 204(a)(1)(B)(iii)
+B25|Family-Sponsored Preferences|Family 2nd Preference (Subject to Country Limitations)|Child of B24 203(d) & 204(a)(1)(B)(iii)
+FX1|Family-Sponsored Preferences|Family 2nd Preference (Exempt from Country Limitations)|Spouse of lawful permanent resident 202(a)(4)(A) & 203(a)(2)(A)
+FX2|Family-Sponsored Preferences|Family 2nd Preference (Exempt from Country Limitations)|Child of lawful permanent resident 202(a)(4)(A) & 203(a)(2)(A)
+FX3|Family-Sponsored Preferences|Family 2nd Preference (Exempt from Country Limitations)|Child of FX1 or FX2 202(a)(4)(A) & 203(a)(2)(A) & 203(d)
+CX1|Family-Sponsored Preferences|Family 2nd Preference (Exempt from Country Limitations)|Spouse of lawful permanent resident (conditional) 202(a)(4)(A) & 203(a)(2)(A) & 216
+CX2|Family-Sponsored Preferences|Family 2nd Preference (Exempt from Country Limitations)|Child of lawful permanent resident (conditional) 202(a)(4)(A) & 203(a)(2)(A) & 216
+CX3|Family-Sponsored Preferences|Family 2nd Preference (Exempt from Country Limitations)|Child of CX1 or CX2 (conditional) 202(a)(4)(A) & 203(a)(2)(A) & 203(d) & 216
+BX1|Family-Sponsored Preferences|Family 2nd Preference (Exempt from Country Limitations)|Self-petition spouse of lawful permanent resident 204(a)(1)(B)(ii)
+BX2|Family-Sponsored Preferences|Family 2nd Preference (Exempt from Country Limitations)|Self-petition child of lawful permanent resident 204(a)(1)(B)(iii)
+BX3|Family-Sponsored Preferences|Family 2nd Preference (Exempt from Country Limitations)|Child of BX1 or BX2 204(a)(1)(B)(ii) & 203(d)
+F31|Family-Sponsored Preferences|Family 3rd Preference|Married son or daughter of U.S. citizen 203(a)(3)
+F32|Family-Sponsored Preferences|Family 3rd Preference|Spouse of F31 203(d) & 203(a)(3)
+F33|Family-Sponsored Preferences|Family 3rd Preference|Child of F31 203(d) & 203(a)(3)
+C31|Family-Sponsored Preferences|Family 3rd Preference|Married son or daughter of U.S. citizen (conditional) 203(a)(3) & 216
+C32|Family-Sponsored Preferences|Family 3rd Preference|Spouse of C31 (conditional) 203(d) & 203(a)(3) & 216
+C33|Family-Sponsored Preferences|Family 3rd Preference|Child of C31 (conditional) INA 203(d) & 203(a)(3) & 216
+B31|Family-Sponsored Preferences|Family 3rd Preference|Self-petition married son or daughter of U.S. citizen 204(a)(1)(A)(iv) & 203(a)(3)
+B32|Family-Sponsored Preferences|Family 3rd Preference|Spouse of B31 INA 203(d) & 204(a)(1)(A)(iv) & 203(a)(3)
+B33|Family-Sponsored Preferences|Family 3rd Preference|Child of B31 203(d) & 204(a)(1)(A)(iv) & 203(a)(3)
+F41|Family-Sponsored Preferences|Family 4th Preference|Brother or sister of U.S. citizen at least 21 years of age 203(a)(4)
+F42|Family-Sponsored Preferences|Family 4th Preference|Spouse of F41 203(d) & 203(a)(4)
+F43|Family-Sponsored Preferences|Family 4th Preference|Child of F41 203(d) & 203(a)(4)
+E11|Employment-Based Preferences|First Preference (Priority Workers)|Person with extraordinary ability in the sciences, arts, education, business, or athletics 203(b)(1)(A)
+E12|Employment-Based Preferences|First Preference (Priority Workers)|Outstanding professor or researcher 203(b)(1)(B)
+E13|Employment-Based Preferences|First Preference (Priority Workers)|Multinational executive or manager 203(b)(1)(C)
+E14|Employment-Based Preferences|First Preference (Priority Workers)|Spouse of E11, E12, or E13 203(d) & 203(b)(1)(A) & 203(b)(1)(B) & 203(b)(1)(C)
+E15|Employment-Based Preferences|First Preference (Priority Workers)|Child of E11, E12, or E13 203(d) & 203(b)(1)(A) & 203(b)(1)(B) & 203(b)(1)(C)
+E21|Employment-Based Preferences|Employment 2nd Preference (Professionals Holding Advanced Degrees or Persons of Exceptional Ability)|Professional holding advanced degree or alien of exceptional ability 203(b)(2)
+E22|Employment-Based Preferences|Employment 2nd Preference (Professionals Holding Advanced Degrees or Persons of Exceptional Ability)|Spouse of E21 203(d) & 203(b)(2)
+E23|Employment-Based Preferences|Employment 2nd Preference (Professionals Holding Advanced Degrees or Persons of Exceptional Ability)|Child of E21 203(d) & 203(b)(2)
+E31|Employment-Based Preferences|Employment 3rd Preference (Skilled Workers, Professionals, and Other Workers)|Skilled worker 203(b)(3)(A)(i).
+E32|Employment-Based Preferences|Employment 3rd Preference (Skilled Workers, Professionals, and Other Workers)|Professional holding baccalaureate degree 203(b)(3)(A)(ii).
+E34|Employment-Based Preferences|Employment 3rd Preference (Skilled Workers, Professionals, and Other Workers)|Spouse of E31 or E32 203(d) & 203(b)(3)(A)(i) & 203(b)(3)(A)(ii)
+E35|Employment-Based Preferences|Employment 3rd Preference (Skilled Workers, Professionals, and Other Workers)|Child of E31 or E32 203(d) & 203(b)(3)(A)(i) & 203(b)(3)(A)(ii)
+EW3|Employment-Based Preferences|Employment 3rd Preference (Skilled Workers, Professionals, and Other Workers)|Other worker (subgroup numerical limit) 203(b)(3)(A)(iii)
+EW4|Employment-Based Preferences|Employment 3rd Preference (Skilled Workers, Professionals, and Other Workers)|Spouse of EW3 203(d) & 203(b)(3)(A)(iii)
+EW5|Employment-Based Preferences|Employment 3rd Preference (Skilled Workers, Professionals, and Other Workers)|Child of EW3 203(d) & 203(b)(3)(A)(iii)
+BC1|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Broadcaster in the U.S. employed by the International Broadcasting Bureau of the Broadcasting Board of Governors or a grantee of such organization 101(a)(27)(M) & 203(b)(4)
+BC2|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Accompanying spouse of BC1 101(a)(27)(M) & 203(b)(4)
+BC3|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Accompanying child of BC1 101(a)(27)(M) & 203(b)(4)
+SD1|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Minister of religion 101(a)(27)(C)(ii)(I) & 203(b)(4)
+SD2|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Spouse of SD1 101(a)(27)(C)(ii)(I) & 203(b)(4)
+SD3|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Child of SD1 101(a)(27)(C)(ii)(I) & 203(b)(4)
+SE1|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Certain employees or former employees of the U.S. Government abroad 101(a)(27)(D) & 203(b)(4)
+SE2|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Spouse of SE1 101(a)(27)(D) & 203(b)(4)
+SE3|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Child of SE1 101(a)(27)(D) & 203(b)(4)
+SF1|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Certain former employees of the Panama Canal Company or Canal Zone Government 101(a)(27)(E) & 203(b)(4)
+SF2|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Spouse or child of SF1 101(a)(27)(E) & 203(b)(4)
+SG1|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Certain Former Employees of the U.S. Government in the Panama Canal Zone 101(a)(27)(F) & 203(b)(4)
+SG2|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Spouse or Child of SG1 101(a)(27)(F) & 203(b)(4)
+SH1|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Certain former employees of the Panama Canal Company or Canal Zone Government on April 1, 1979 101(a)(27)(G) & 203(b)(4)
+SH2|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Spouse or child of SH1 101(a)(27)(G) & 203(b)(4)
+SJ1|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Certain foreign medical graduates 101(a)(27)(H)
+SJ2|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Accompanying Spouse or Child of SJ1 101(a)(27)(H) & 203(b)(4)
+SK1|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Certain retired international organization employees 101(a)(27)(I)(iii) & 203(b)(4)
+SK2|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Spouse of SK1 101(a)(27)(I)(iv) & 203(b)(4)
+SK3|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Certain unmarried sons or daughters of an international organization employee 101(a)(27)(I)(i) & 203(b)(4)
+SK4|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Certain surviving spouses of a deceased international organization employee 101(a)(27)(I)(ii) & 203(b)(4)
+SL1|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Juvenile court dependent 101(a)(27)(J) & 203(b)(4)
+SN1|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Certain retired NATO6 civilians 101(a)(27)(L) & 203(b)(4)
+SN2|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Spouse of SN1 101(a)(27)(L) & 203(b)(4)
+SN3|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Certain unmarried sons or daughters of NATO6 civilian employees 101(a)(27)(L) & 203(b)(4)
+SN4|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Certain surviving spouses of deceased NATO6 civilian employees 101(a)(27)(L) & 203(b)(4)
+SR1|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Certain religious workers 101(a)(27)(C)(ii)(II) & (III) as amended & 203(b)(4)
+SR2|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Spouse of SR1 101(a)(27)(C)(ii)(II) & (III) as amended & 203(b)(4)
+SR3|Employment-Based Preferences|Employment 4th Preference (Certain Special Immigrants)|Child of SR1 101(a)(27)(C)(ii)(II) & (III) as amended & 203(b)(4)
+C51|Employment-Based Preferences|Employment 5th Preference (Employment Creation Conditional Status)|Employment creation outside targeted areas 203(b)(5)(A)
+C52|Employment-Based Preferences|Employment 5th Preference (Employment Creation Conditional Status)|Spouse of C51 203(d) & 203(b)(5)(A)
+C53|Employment-Based Preferences|Employment 5th Preference (Employment Creation Conditional Status)|Child of C51 203(d) & 203(b)(5)(A)
+T51|Employment-Based Preferences|Employment 5th Preference (Employment Creation Conditional Status)|Employment creation in targeted rural/high unemployment area 203(b)(5)(B)
+T52|Employment-Based Preferences|Employment 5th Preference (Employment Creation Conditional Status)|Spouse of T51 203(d) & 203(b)(5)(B)
+T53|Employment-Based Preferences|Employment 5th Preference (Employment Creation Conditional Status)|Child of T51 203(d) & 203(b)(5)(B)
+R51|Employment-Based Preferences|Employment 5th Preference (Employment Creation Conditional Status)|Investor pilot program, not in targeted area 203(b)(5) 
+R52|Employment-Based Preferences|Employment 5th Preference (Employment Creation Conditional Status)|Spouse of R51 203(d) & 203(b)(5)
+R53|Employment-Based Preferences|Employment 5th Preference (Employment Creation Conditional Status)|Child of R51 203(d) & 203(b)(5)
+I51|Employment-Based Preferences|Employment 5th Preference (Employment Creation Conditional Status)|Investor pilot program, targeted area 203(b)(5) 
+I52|Employment-Based Preferences|Employment 5th Preference (Employment Creation Conditional Status)|Spouse of I51 203(d) & 203(b)(5)
+I53|Employment-Based Preferences|Employment 5th Preference (Employment Creation Conditional Status)|Child of I51 203(d) & 203(b)(5)
+DV1|Other Numerically Limited Categories|Diversity Immigrants|Diversity Immigrant 203(c)
+DV2|Other Numerically Limited Categories|Diversity Immigrants|Spouse of DV1 203(d) & 203(c)
+DV3|Other Numerically Limited Categories|Diversity Immigrants|Child of DV1 203(d) & 203(c)

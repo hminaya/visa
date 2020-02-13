@@ -1,0 +1,2375 @@
+Post,VisaClass,Quantity,VisaType,Year,Month
+ abidjan, cr1,7,IV,2018,November
+ abidjan, dv1,1,IV,2018,November
+ abidjan, f11,2,IV,2018,November
+ abidjan, f21,1,IV,2018,November
+ abidjan, f22,3,IV,2018,November
+ abidjan, f24,1,IV,2018,November
+ abidjan, fx1,1,IV,2018,November
+ abidjan, fx2,1,IV,2018,November
+ abidjan, ir1,4,IV,2018,November
+ abidjan, ir2,17,IV,2018,November
+ abidjan, ir5,13,IV,2018,November
+ abidjan, sb1,1,IV,2018,November
+ abidjan, se1,1,IV,2018,November
+ abidjan, se2,1,IV,2018,November
+ dhabi abu, cr1,9,IV,2018,November
+ dhabi abu, cr2,1,IV,2018,November
+ dhabi abu, dv1,5,IV,2018,November
+ dhabi abu, dv2,2,IV,2018,November
+ dhabi abu, dv3,2,IV,2018,November
+ dhabi abu, e22,1,IV,2018,November
+ dhabi abu, e23,2,IV,2018,November
+ dhabi abu, e31,29,IV,2018,November
+ dhabi abu, e34,22,IV,2018,November
+ dhabi abu, e35,18,IV,2018,November
+ dhabi abu, f11,4,IV,2018,November
+ dhabi abu, f12,1,IV,2018,November
+ dhabi abu, f21,1,IV,2018,November
+ dhabi abu, f24,2,IV,2018,November
+ dhabi abu, f31,7,IV,2018,November
+ dhabi abu, f32,7,IV,2018,November
+ dhabi abu, f33,10,IV,2018,November
+ dhabi abu, f41,7,IV,2018,November
+ dhabi abu, f42,4,IV,2018,November
+ dhabi abu, f43,9,IV,2018,November
+ dhabi abu, fx1,4,IV,2018,November
+ dhabi abu, fx2,1,IV,2018,November
+ dhabi abu, fx3,1,IV,2018,November
+ dhabi abu, ir1,9,IV,2018,November
+ dhabi abu, ir2,14,IV,2018,November
+ dhabi abu, ir5,6,IV,2018,November
+ dhabi abu, sq2,1,IV,2018,November
+ accra, cr1,49,IV,2018,November
+ accra, cr2,3,IV,2018,November
+ accra, dv1,23,IV,2018,November
+ accra, dv2,7,IV,2018,November
+ accra, dv3,5,IV,2018,November
+ accra, e31,10,IV,2018,November
+ accra, e34,8,IV,2018,November
+ accra, e35,14,IV,2018,November
+ accra, f11,25,IV,2018,November
+ accra, f12,10,IV,2018,November
+ accra, f21,11,IV,2018,November
+ accra, f22,19,IV,2018,November
+ accra, f23,4,IV,2018,November
+ accra, f24,3,IV,2018,November
+ accra, f25,4,IV,2018,November
+ accra, f31,5,IV,2018,November
+ accra, f32,4,IV,2018,November
+ accra, f33,7,IV,2018,November
+ accra, f41,13,IV,2018,November
+ accra, f42,6,IV,2018,November
+ accra, f43,18,IV,2018,November
+ accra, fx1,19,IV,2018,November
+ accra, fx2,32,IV,2018,November
+ accra, fx3,18,IV,2018,November
+ accra, ib2,1,IV,2018,November
+ accra, ib3,3,IV,2018,November
+ accra, ir1,67,IV,2018,November
+ accra, ir2,146,IV,2018,November
+ accra, ir5,93,IV,2018,November
+ accra, iw1,2,IV,2018,November
+ accra, se1,1,IV,2018,November
+ accra, se2,1,IV,2018,November
+ ababa addis, cr1,57,IV,2018,November
+ ababa addis, cr2,1,IV,2018,November
+ ababa addis, dv1,155,IV,2018,November
+ ababa addis, dv2,21,IV,2018,November
+ ababa addis, dv3,38,IV,2018,November
+ ababa addis, e21,1,IV,2018,November
+ ababa addis, e22,1,IV,2018,November
+ ababa addis, e23,3,IV,2018,November
+ ababa addis, f11,7,IV,2018,November
+ ababa addis, f12,3,IV,2018,November
+ ababa addis, f21,27,IV,2018,November
+ ababa addis, f22,31,IV,2018,November
+ ababa addis, f24,5,IV,2018,November
+ ababa addis, f25,2,IV,2018,November
+ ababa addis, f31,1,IV,2018,November
+ ababa addis, f32,2,IV,2018,November
+ ababa addis, f33,6,IV,2018,November
+ ababa addis, f41,8,IV,2018,November
+ ababa addis, f42,3,IV,2018,November
+ ababa addis, f43,11,IV,2018,November
+ ababa addis, fx1,22,IV,2018,November
+ ababa addis, fx2,39,IV,2018,November
+ ababa addis, fx3,1,IV,2018,November
+ ababa addis, ir1,42,IV,2018,November
+ ababa addis, ir2,38,IV,2018,November
+ ababa addis, ir5,60,IV,2018,November
+ ababa addis, se1,1,IV,2018,November
+ ababa addis, se2,2,IV,2018,November
+ ababa addis, se3,9,IV,2018,November
+ taipei ait, cr1,4,IV,2018,November
+ taipei ait, dv1,3,IV,2018,November
+ taipei ait, dv2,1,IV,2018,November
+ taipei ait, dv3,2,IV,2018,November
+ taipei ait, e21,5,IV,2018,November
+ taipei ait, e22,5,IV,2018,November
+ taipei ait, e23,3,IV,2018,November
+ taipei ait, e32,2,IV,2018,November
+ taipei ait, e34,1,IV,2018,November
+ taipei ait, f11,1,IV,2018,November
+ taipei ait, f21,1,IV,2018,November
+ taipei ait, f24,1,IV,2018,November
+ taipei ait, f31,6,IV,2018,November
+ taipei ait, f32,5,IV,2018,November
+ taipei ait, f33,6,IV,2018,November
+ taipei ait, f41,25,IV,2018,November
+ taipei ait, f42,15,IV,2018,November
+ taipei ait, f43,16,IV,2018,November
+ taipei ait, fx1,1,IV,2018,November
+ taipei ait, fx2,2,IV,2018,November
+ taipei ait, i51,4,IV,2018,November
+ taipei ait, i52,4,IV,2018,November
+ taipei ait, i53,7,IV,2018,November
+ taipei ait, ir1,21,IV,2018,November
+ taipei ait, ir2,7,IV,2018,November
+ taipei ait, ir5,21,IV,2018,November
+ taipei ait, t51,1,IV,2018,November
+ taipei ait, t52,1,IV,2018,November
+ algiers, cr1,22,IV,2018,November
+ algiers, dv1,63,IV,2018,November
+ algiers, dv2,30,IV,2018,November
+ algiers, dv3,23,IV,2018,November
+ algiers, f11,2,IV,2018,November
+ algiers, f21,3,IV,2018,November
+ algiers, fx1,9,IV,2018,November
+ algiers, fx2,2,IV,2018,November
+ algiers, ir1,2,IV,2018,November
+ algiers, ir2,1,IV,2018,November
+ algiers, ir4,2,IV,2018,November
+ algiers, ir5,10,IV,2018,November
+ almaty, cr1,1,IV,2018,November
+ almaty, dv1,29,IV,2018,November
+ almaty, dv2,20,IV,2018,November
+ almaty, dv3,45,IV,2018,November
+ almaty, f11,1,IV,2018,November
+ almaty, f22,1,IV,2018,November
+ almaty, f24,1,IV,2018,November
+ almaty, fx1,2,IV,2018,November
+ almaty, fx2,2,IV,2018,November
+ almaty, ir1,2,IV,2018,November
+ almaty, ir2,4,IV,2018,November
+ almaty, ir5,10,IV,2018,November
+ almaty, se1,1,IV,2018,November
+ almaty, se2,1,IV,2018,November
+ almaty, se3,3,IV,2018,November
+ amman, cr1,41,IV,2018,November
+ amman, cr2,1,IV,2018,November
+ amman, dv1,3,IV,2018,November
+ amman, dv2,2,IV,2018,November
+ amman, dv3,4,IV,2018,November
+ amman, e31,1,IV,2018,November
+ amman, e32,1,IV,2018,November
+ amman, e34,1,IV,2018,November
+ amman, e35,3,IV,2018,November
+ amman, f11,5,IV,2018,November
+ amman, f12,3,IV,2018,November
+ amman, f21,1,IV,2018,November
+ amman, f22,3,IV,2018,November
+ amman, f24,2,IV,2018,November
+ amman, f31,6,IV,2018,November
+ amman, f32,5,IV,2018,November
+ amman, f33,16,IV,2018,November
+ amman, f41,12,IV,2018,November
+ amman, f42,12,IV,2018,November
+ amman, f43,23,IV,2018,November
+ amman, fx1,6,IV,2018,November
+ amman, fx2,7,IV,2018,November
+ amman, fx3,4,IV,2018,November
+ amman, ir1,22,IV,2018,November
+ amman, ir2,32,IV,2018,November
+ amman, ir5,39,IV,2018,November
+ amman, se1,1,IV,2018,November
+ amman, se2,1,IV,2018,November
+ amman, se3,2,IV,2018,November
+ amsterdam, cr1,5,IV,2018,November
+ amsterdam, dv1,1,IV,2018,November
+ amsterdam, e21,1,IV,2018,November
+ amsterdam, e22,1,IV,2018,November
+ amsterdam, e23,2,IV,2018,November
+ amsterdam, e35,1,IV,2018,November
+ amsterdam, f11,1,IV,2018,November
+ amsterdam, f12,3,IV,2018,November
+ amsterdam, f24,1,IV,2018,November
+ amsterdam, f41,2,IV,2018,November
+ amsterdam, f42,1,IV,2018,November
+ amsterdam, f43,1,IV,2018,November
+ amsterdam, fx1,1,IV,2018,November
+ amsterdam, ir1,7,IV,2018,November
+ amsterdam, ir2,2,IV,2018,November
+ amsterdam, ir5,2,IV,2018,November
+ ankara, cr1,26,IV,2018,November
+ ankara, dv1,43,IV,2018,November
+ ankara, dv2,23,IV,2018,November
+ ankara, dv3,25,IV,2018,November
+ ankara, e14,2,IV,2018,November
+ ankara, e21,1,IV,2018,November
+ ankara, e22,1,IV,2018,November
+ ankara, e23,1,IV,2018,November
+ ankara, e31,1,IV,2018,November
+ ankara, f11,3,IV,2018,November
+ ankara, f21,3,IV,2018,November
+ ankara, f23,1,IV,2018,November
+ ankara, f31,1,IV,2018,November
+ ankara, f32,1,IV,2018,November
+ ankara, f33,1,IV,2018,November
+ ankara, f41,6,IV,2018,November
+ ankara, f42,4,IV,2018,November
+ ankara, f43,6,IV,2018,November
+ ankara, fx1,5,IV,2018,November
+ ankara, fx2,5,IV,2018,November
+ ankara, i51,1,IV,2018,November
+ ankara, ir1,20,IV,2018,November
+ ankara, ir2,5,IV,2018,November
+ ankara, ir5,29,IV,2018,November
+ ankara, sb1,6,IV,2018,November
+ ankara, sq1,1,IV,2018,November
+ ankara, sq2,2,IV,2018,November
+ ankara, sq3,2,IV,2018,November
+ antananarivo, cr1,1,IV,2018,November
+ antananarivo, ir1,1,IV,2018,November
+ ashgabat, dv1,3,IV,2018,November
+ ashgabat, dv2,2,IV,2018,November
+ ashgabat, dv3,5,IV,2018,November
+ ashgabat, fx1,1,IV,2018,November
+ ashgabat, ir2,1,IV,2018,November
+ ashgabat, ir5,2,IV,2018,November
+ asmara, se1,1,IV,2018,November
+ asmara, se2,1,IV,2018,November
+ asmara, se3,3,IV,2018,November
+ asuncion, cr1,1,IV,2018,November
+ asuncion, f21,1,IV,2018,November
+ asuncion, f24,1,IV,2018,November
+ asuncion, fx2,1,IV,2018,November
+ asuncion, fx3,2,IV,2018,November
+ asuncion, ib1,1,IV,2018,November
+ asuncion, ir5,3,IV,2018,November
+ athens, cr1,3,IV,2018,November
+ athens, dv1,3,IV,2018,November
+ athens, dv2,2,IV,2018,November
+ athens, dv3,2,IV,2018,November
+ athens, e22,1,IV,2018,November
+ athens, e23,2,IV,2018,November
+ athens, e31,1,IV,2018,November
+ athens, e34,1,IV,2018,November
+ athens, e35,1,IV,2018,November
+ athens, ew3,3,IV,2018,November
+ athens, ew4,2,IV,2018,November
+ athens, ew5,2,IV,2018,November
+ athens, f41,1,IV,2018,November
+ athens, f42,1,IV,2018,November
+ athens, f43,1,IV,2018,November
+ athens, ir1,6,IV,2018,November
+ athens, ir2,4,IV,2018,November
+ athens, ir5,9,IV,2018,November
+ auckland, cr1,6,IV,2018,November
+ auckland, dv1,6,IV,2018,November
+ auckland, dv2,1,IV,2018,November
+ auckland, e21,1,IV,2018,November
+ auckland, e22,1,IV,2018,November
+ auckland, e23,3,IV,2018,November
+ auckland, e31,6,IV,2018,November
+ auckland, e32,1,IV,2018,November
+ auckland, e34,4,IV,2018,November
+ auckland, e35,5,IV,2018,November
+ auckland, f31,2,IV,2018,November
+ auckland, f32,2,IV,2018,November
+ auckland, f33,3,IV,2018,November
+ auckland, f41,2,IV,2018,November
+ auckland, f43,5,IV,2018,November
+ auckland, ir1,5,IV,2018,November
+ auckland, ir5,4,IV,2018,November
+ baghdad, cr1,14,IV,2018,November
+ baghdad, dv1,4,IV,2018,November
+ baghdad, dv2,1,IV,2018,November
+ baghdad, dv3,2,IV,2018,November
+ baghdad, f21,5,IV,2018,November
+ baghdad, f23,1,IV,2018,November
+ baghdad, fx1,17,IV,2018,November
+ baghdad, fx3,3,IV,2018,November
+ baghdad, ir1,21,IV,2018,November
+ baghdad, ir2,4,IV,2018,November
+ baghdad, ir5,28,IV,2018,November
+ baghdad, sq1,4,IV,2018,November
+ baghdad, sq2,4,IV,2018,November
+ baghdad, sq3,11,IV,2018,November
+ bangkok, cr1,36,IV,2018,November
+ bangkok, cr2,5,IV,2018,November
+ bangkok, dv1,3,IV,2018,November
+ bangkok, e22,1,IV,2018,November
+ bangkok, e23,1,IV,2018,November
+ bangkok, ew3,1,IV,2018,November
+ bangkok, f11,5,IV,2018,November
+ bangkok, f21,2,IV,2018,November
+ bangkok, f24,2,IV,2018,November
+ bangkok, f31,1,IV,2018,November
+ bangkok, f32,1,IV,2018,November
+ bangkok, f41,1,IV,2018,November
+ bangkok, f43,2,IV,2018,November
+ bangkok, fx1,5,IV,2018,November
+ bangkok, fx2,5,IV,2018,November
+ bangkok, i51,1,IV,2018,November
+ bangkok, i52,1,IV,2018,November
+ bangkok, i53,2,IV,2018,November
+ bangkok, ih3,1,IV,2018,November
+ bangkok, ih4,6,IV,2018,November
+ bangkok, ir1,18,IV,2018,November
+ bangkok, ir2,13,IV,2018,November
+ bangkok, ir5,14,IV,2018,November
+ bangkok, iw1,1,IV,2018,November
+ beirut, cr1,19,IV,2018,November
+ beirut, dv1,1,IV,2018,November
+ beirut, dv2,1,IV,2018,November
+ beirut, dv3,2,IV,2018,November
+ beirut, f11,4,IV,2018,November
+ beirut, f12,1,IV,2018,November
+ beirut, f21,5,IV,2018,November
+ beirut, f22,2,IV,2018,November
+ beirut, f23,3,IV,2018,November
+ beirut, f24,3,IV,2018,November
+ beirut, f31,5,IV,2018,November
+ beirut, f32,3,IV,2018,November
+ beirut, f33,9,IV,2018,November
+ beirut, f41,7,IV,2018,November
+ beirut, f42,6,IV,2018,November
+ beirut, f43,13,IV,2018,November
+ beirut, fx1,4,IV,2018,November
+ beirut, fx2,3,IV,2018,November
+ beirut, fx3,1,IV,2018,November
+ beirut, ir1,7,IV,2018,November
+ beirut, ir2,3,IV,2018,November
+ beirut, ir5,19,IV,2018,November
+ belgrade, cr1,5,IV,2018,November
+ belgrade, dv1,3,IV,2018,November
+ belgrade, dv2,1,IV,2018,November
+ belgrade, e11,1,IV,2018,November
+ belgrade, e31,1,IV,2018,November
+ belgrade, f31,1,IV,2018,November
+ belgrade, f32,1,IV,2018,November
+ belgrade, f41,4,IV,2018,November
+ belgrade, f42,4,IV,2018,November
+ belgrade, f43,4,IV,2018,November
+ belgrade, fx1,2,IV,2018,November
+ belgrade, ir1,4,IV,2018,November
+ belgrade, ir2,1,IV,2018,November
+ belgrade, ir5,10,IV,2018,November
+ belgrade, se3,1,IV,2018,November
+ belmopan, cr1,6,IV,2018,November
+ belmopan, cr2,4,IV,2018,November
+ belmopan, f11,5,IV,2018,November
+ belmopan, f12,4,IV,2018,November
+ belmopan, f41,2,IV,2018,November
+ belmopan, f42,2,IV,2018,November
+ belmopan, ih4,2,IV,2018,November
+ belmopan, ir1,3,IV,2018,November
+ belmopan, ir2,3,IV,2018,November
+ belmopan, ir5,6,IV,2018,November
+ bern, cr1,5,IV,2018,November
+ bern, f21,1,IV,2018,November
+ bern, f22,1,IV,2018,November
+ bern, f31,1,IV,2018,November
+ bern, f32,1,IV,2018,November
+ bern, f33,1,IV,2018,November
+ bern, fx1,1,IV,2018,November
+ bern, i51,1,IV,2018,November
+ bern, i52,1,IV,2018,November
+ bern, i53,1,IV,2018,November
+ bern, ir1,12,IV,2018,November
+ bern, ir2,1,IV,2018,November
+ bern, sb1,1,IV,2018,November
+ bern, sq1,1,IV,2018,November
+ bishkek, cr1,1,IV,2018,November
+ bishkek, dv1,11,IV,2018,November
+ bishkek, dv2,4,IV,2018,November
+ bishkek, dv3,2,IV,2018,November
+ bishkek, f21,1,IV,2018,November
+ bishkek, f22,1,IV,2018,November
+ bishkek, fx1,1,IV,2018,November
+ bishkek, fx2,1,IV,2018,November
+ bishkek, ir1,1,IV,2018,November
+ bishkek, ir5,6,IV,2018,November
+ bogota, cr1,59,IV,2018,November
+ bogota, cr2,24,IV,2018,November
+ bogota, e21,2,IV,2018,November
+ bogota, e22,2,IV,2018,November
+ bogota, e23,3,IV,2018,November
+ bogota, e31,2,IV,2018,November
+ bogota, e32,1,IV,2018,November
+ bogota, e34,2,IV,2018,November
+ bogota, ew3,4,IV,2018,November
+ bogota, ew4,2,IV,2018,November
+ bogota, ew5,3,IV,2018,November
+ bogota, f11,43,IV,2018,November
+ bogota, f12,19,IV,2018,November
+ bogota, f21,12,IV,2018,November
+ bogota, f22,11,IV,2018,November
+ bogota, f23,11,IV,2018,November
+ bogota, f24,11,IV,2018,November
+ bogota, f25,4,IV,2018,November
+ bogota, f31,7,IV,2018,November
+ bogota, f32,5,IV,2018,November
+ bogota, f33,10,IV,2018,November
+ bogota, f41,21,IV,2018,November
+ bogota, f42,9,IV,2018,November
+ bogota, f43,9,IV,2018,November
+ bogota, fx1,22,IV,2018,November
+ bogota, fx2,11,IV,2018,November
+ bogota, fx3,7,IV,2018,November
+ bogota, ih3,21,IV,2018,November
+ bogota, ir1,56,IV,2018,November
+ bogota, ir2,64,IV,2018,November
+ bogota, ir5,105,IV,2018,November
+ bogota, sb1,2,IV,2018,November
+ bratislava, cr1,1,IV,2018,November
+ bratislava, dv1,1,IV,2018,November
+ bratislava, dv3,1,IV,2018,November
+ bratislava, fx1,1,IV,2018,November
+ bratislava, ir1,1,IV,2018,November
+ bratislava, ir5,2,IV,2018,November
+ brazzaville, sb1,1,IV,2018,November
+ bridgetown, cr1,13,IV,2018,November
+ bridgetown, e31,3,IV,2018,November
+ bridgetown, e32,1,IV,2018,November
+ bridgetown, e34,4,IV,2018,November
+ bridgetown, e35,4,IV,2018,November
+ bridgetown, f11,19,IV,2018,November
+ bridgetown, f12,11,IV,2018,November
+ bridgetown, f22,1,IV,2018,November
+ bridgetown, f24,3,IV,2018,November
+ bridgetown, f25,3,IV,2018,November
+ bridgetown, f31,9,IV,2018,November
+ bridgetown, f32,7,IV,2018,November
+ bridgetown, f33,9,IV,2018,November
+ bridgetown, f41,6,IV,2018,November
+ bridgetown, f43,1,IV,2018,November
+ bridgetown, fx1,3,IV,2018,November
+ bridgetown, fx2,4,IV,2018,November
+ bridgetown, i51,1,IV,2018,November
+ bridgetown, i52,1,IV,2018,November
+ bridgetown, i53,3,IV,2018,November
+ bridgetown, ib3,2,IV,2018,November
+ bridgetown, ir1,3,IV,2018,November
+ bridgetown, ir2,21,IV,2018,November
+ bridgetown, ir3,1,IV,2018,November
+ bridgetown, ir5,41,IV,2018,November
+ brussels, cr1,7,IV,2018,November
+ brussels, e11,1,IV,2018,November
+ brussels, e15,2,IV,2018,November
+ brussels, f24,1,IV,2018,November
+ brussels, f31,1,IV,2018,November
+ brussels, f32,1,IV,2018,November
+ brussels, f33,3,IV,2018,November
+ brussels, ir1,3,IV,2018,November
+ brussels, ir2,1,IV,2018,November
+ brussels, sb1,1,IV,2018,November
+ bucharest, cr1,11,IV,2018,November
+ bucharest, dv1,3,IV,2018,November
+ bucharest, dv2,1,IV,2018,November
+ bucharest, e31,1,IV,2018,November
+ bucharest, e34,1,IV,2018,November
+ bucharest, e35,1,IV,2018,November
+ bucharest, f11,2,IV,2018,November
+ bucharest, f41,4,IV,2018,November
+ bucharest, f42,1,IV,2018,November
+ bucharest, f43,4,IV,2018,November
+ bucharest, fx1,1,IV,2018,November
+ bucharest, fx2,2,IV,2018,November
+ bucharest, ih3,2,IV,2018,November
+ bucharest, ir1,7,IV,2018,November
+ bucharest, ir2,3,IV,2018,November
+ bucharest, ir5,13,IV,2018,November
+ bucharest, sb1,4,IV,2018,November
+ budapest, cr1,4,IV,2018,November
+ budapest, cr2,1,IV,2018,November
+ budapest, f11,1,IV,2018,November
+ budapest, f24,2,IV,2018,November
+ budapest, f25,1,IV,2018,November
+ budapest, fx2,1,IV,2018,November
+ budapest, ih3,3,IV,2018,November
+ budapest, ir5,5,IV,2018,November
+ budapest, sd1,1,IV,2018,November
+ aires buenos, cr1,3,IV,2018,November
+ aires buenos, f11,3,IV,2018,November
+ aires buenos, f41,1,IV,2018,November
+ aires buenos, f42,1,IV,2018,November
+ aires buenos, i51,1,IV,2018,November
+ aires buenos, i52,1,IV,2018,November
+ aires buenos, i53,3,IV,2018,November
+ aires buenos, ir1,8,IV,2018,November
+ aires buenos, ir2,4,IV,2018,November
+ aires buenos, ir5,10,IV,2018,November
+ cairo, cr1,12,IV,2018,November
+ cairo, dv1,75,IV,2018,November
+ cairo, dv2,55,IV,2018,November
+ cairo, dv3,102,IV,2018,November
+ cairo, e21,1,IV,2018,November
+ cairo, e31,1,IV,2018,November
+ cairo, e34,1,IV,2018,November
+ cairo, e35,2,IV,2018,November
+ cairo, f11,7,IV,2018,November
+ cairo, f21,16,IV,2018,November
+ cairo, f22,10,IV,2018,November
+ cairo, f24,1,IV,2018,November
+ cairo, f31,2,IV,2018,November
+ cairo, f32,3,IV,2018,November
+ cairo, f33,5,IV,2018,November
+ cairo, f41,15,IV,2018,November
+ cairo, f42,12,IV,2018,November
+ cairo, f43,31,IV,2018,November
+ cairo, fx1,9,IV,2018,November
+ cairo, fx2,10,IV,2018,November
+ cairo, i51,1,IV,2018,November
+ cairo, i52,1,IV,2018,November
+ cairo, i53,4,IV,2018,November
+ cairo, ir1,33,IV,2018,November
+ cairo, ir2,25,IV,2018,November
+ cairo, ir5,39,IV,2018,November
+ cairo, sb1,2,IV,2018,November
+ caracas, cr1,11,IV,2018,November
+ caracas, cr2,4,IV,2018,November
+ caracas, dv1,34,IV,2018,November
+ caracas, dv2,20,IV,2018,November
+ caracas, dv3,21,IV,2018,November
+ caracas, e14,1,IV,2018,November
+ caracas, e21,2,IV,2018,November
+ caracas, e22,2,IV,2018,November
+ caracas, e23,2,IV,2018,November
+ caracas, e31,2,IV,2018,November
+ caracas, e32,1,IV,2018,November
+ caracas, e34,2,IV,2018,November
+ caracas, e35,3,IV,2018,November
+ caracas, f11,6,IV,2018,November
+ caracas, f12,5,IV,2018,November
+ caracas, f21,2,IV,2018,November
+ caracas, f22,3,IV,2018,November
+ caracas, f24,1,IV,2018,November
+ caracas, f31,2,IV,2018,November
+ caracas, f32,2,IV,2018,November
+ caracas, f33,2,IV,2018,November
+ caracas, f41,3,IV,2018,November
+ caracas, f42,1,IV,2018,November
+ caracas, f43,3,IV,2018,November
+ caracas, fx1,2,IV,2018,November
+ caracas, fx2,3,IV,2018,November
+ caracas, i51,1,IV,2018,November
+ caracas, i52,1,IV,2018,November
+ caracas, i53,2,IV,2018,November
+ caracas, ir1,6,IV,2018,November
+ caracas, ir2,16,IV,2018,November
+ caracas, ir5,59,IV,2018,November
+ caracas, iw1,1,IV,2018,November
+ caracas, iw2,2,IV,2018,November
+ caracas, sb1,1,IV,2018,November
+ caracas, se1,1,IV,2018,November
+ caracas, se2,1,IV,2018,November
+ caracas, se3,2,IV,2018,November
+ casablanca, cr1,33,IV,2018,November
+ casablanca, dv1,40,IV,2018,November
+ casablanca, dv2,6,IV,2018,November
+ casablanca, dv3,4,IV,2018,November
+ casablanca, f11,2,IV,2018,November
+ casablanca, f12,2,IV,2018,November
+ casablanca, f22,3,IV,2018,November
+ casablanca, f41,1,IV,2018,November
+ casablanca, fx1,4,IV,2018,November
+ casablanca, fx2,7,IV,2018,November
+ casablanca, ir1,20,IV,2018,November
+ casablanca, ir2,4,IV,2018,November
+ casablanca, ir4,2,IV,2018,November
+ casablanca, ir5,19,IV,2018,November
+ casablanca, sb1,1,IV,2018,November
+ chisinau, dv1,16,IV,2018,November
+ chisinau, dv2,9,IV,2018,November
+ chisinau, dv3,9,IV,2018,November
+ chisinau, f21,1,IV,2018,November
+ chisinau, f22,2,IV,2018,November
+ chisinau, ir2,1,IV,2018,November
+ chisinau, ir5,9,IV,2018,November
+ juarez ciudad, bx1,1,IV,2018,November
+ juarez ciudad, cr1,75,IV,2018,November
+ juarez ciudad, cr2,13,IV,2018,November
+ juarez ciudad, e21,2,IV,2018,November
+ juarez ciudad, e22,2,IV,2018,November
+ juarez ciudad, e23,1,IV,2018,November
+ juarez ciudad, e31,2,IV,2018,November
+ juarez ciudad, e34,4,IV,2018,November
+ juarez ciudad, e35,8,IV,2018,November
+ juarez ciudad, ew3,1,IV,2018,November
+ juarez ciudad, ew4,1,IV,2018,November
+ juarez ciudad, f11,26,IV,2018,November
+ juarez ciudad, f12,30,IV,2018,November
+ juarez ciudad, f24,21,IV,2018,November
+ juarez ciudad, f25,24,IV,2018,November
+ juarez ciudad, f31,15,IV,2018,November
+ juarez ciudad, f32,15,IV,2018,November
+ juarez ciudad, f33,27,IV,2018,November
+ juarez ciudad, f41,116,IV,2018,November
+ juarez ciudad, f42,63,IV,2018,November
+ juarez ciudad, f43,91,IV,2018,November
+ juarez ciudad, fx1,511,IV,2018,November
+ juarez ciudad, fx2,772,IV,2018,November
+ juarez ciudad, fx3,7,IV,2018,November
+ juarez ciudad, ib1,1,IV,2018,November
+ juarez ciudad, ih3,5,IV,2018,November
+ juarez ciudad, ir1,1050,IV,2018,November
+ juarez ciudad, ir2,263,IV,2018,November
+ juarez ciudad, ir5,354,IV,2018,November
+ juarez ciudad, iw1,3,IV,2018,November
+ juarez ciudad, iw2,2,IV,2018,November
+ juarez ciudad, sb1,1,IV,2018,November
+ juarez ciudad, su3,1,IV,2018,November
+ colombo, cr1,4,IV,2018,November
+ colombo, cr2,1,IV,2018,November
+ colombo, dv1,6,IV,2018,November
+ colombo, dv2,4,IV,2018,November
+ colombo, dv3,6,IV,2018,November
+ colombo, e31,1,IV,2018,November
+ colombo, e34,1,IV,2018,November
+ colombo, e35,3,IV,2018,November
+ colombo, f21,2,IV,2018,November
+ colombo, f31,2,IV,2018,November
+ colombo, f32,2,IV,2018,November
+ colombo, f33,2,IV,2018,November
+ colombo, f41,1,IV,2018,November
+ colombo, f42,1,IV,2018,November
+ colombo, f43,1,IV,2018,November
+ colombo, ir1,2,IV,2018,November
+ colombo, ir2,2,IV,2018,November
+ colombo, ir5,5,IV,2018,November
+ cotonou, dv1,13,IV,2018,November
+ cotonou, dv2,3,IV,2018,November
+ cotonou, dv3,4,IV,2018,November
+ cotonou, ir2,1,IV,2018,November
+ dakar, cr1,22,IV,2018,November
+ dakar, dv1,11,IV,2018,November
+ dakar, dv2,3,IV,2018,November
+ dakar, dv3,6,IV,2018,November
+ dakar, e31,1,IV,2018,November
+ dakar, e34,1,IV,2018,November
+ dakar, f11,7,IV,2018,November
+ dakar, f21,2,IV,2018,November
+ dakar, f22,2,IV,2018,November
+ dakar, f24,3,IV,2018,November
+ dakar, f41,3,IV,2018,November
+ dakar, f42,2,IV,2018,November
+ dakar, f43,5,IV,2018,November
+ dakar, fx1,8,IV,2018,November
+ dakar, fx2,26,IV,2018,November
+ dakar, ih3,2,IV,2018,November
+ dakar, ir1,52,IV,2018,November
+ dakar, ir2,115,IV,2018,November
+ dakar, ir3,2,IV,2018,November
+ dakar, ir5,38,IV,2018,November
+ dakar, se3,3,IV,2018,November
+ salaam es dar, cr1,1,IV,2018,November
+ salaam es dar, dv1,1,IV,2018,November
+ salaam es dar, e21,1,IV,2018,November
+ salaam es dar, e23,1,IV,2018,November
+ salaam es dar, f22,1,IV,2018,November
+ salaam es dar, f41,1,IV,2018,November
+ salaam es dar, f43,1,IV,2018,November
+ salaam es dar, fx1,1,IV,2018,November
+ salaam es dar, ir1,1,IV,2018,November
+ salaam es dar, ir2,3,IV,2018,November
+ salaam es dar, ir5,2,IV,2018,November
+ dhaka, cr1,87,IV,2018,November
+ dhaka, cr2,2,IV,2018,November
+ dhaka, e21,1,IV,2018,November
+ dhaka, e22,1,IV,2018,November
+ dhaka, e23,1,IV,2018,November
+ dhaka, e34,1,IV,2018,November
+ dhaka, e35,1,IV,2018,November
+ dhaka, f11,12,IV,2018,November
+ dhaka, f12,2,IV,2018,November
+ dhaka, f21,14,IV,2018,November
+ dhaka, f22,5,IV,2018,November
+ dhaka, f24,6,IV,2018,November
+ dhaka, f25,1,IV,2018,November
+ dhaka, f31,7,IV,2018,November
+ dhaka, f32,7,IV,2018,November
+ dhaka, f33,14,IV,2018,November
+ dhaka, f41,123,IV,2018,November
+ dhaka, f42,109,IV,2018,November
+ dhaka, f43,201,IV,2018,November
+ dhaka, fx1,83,IV,2018,November
+ dhaka, fx2,43,IV,2018,November
+ dhaka, fx3,35,IV,2018,November
+ dhaka, ir1,72,IV,2018,November
+ dhaka, ir2,40,IV,2018,November
+ dhaka, ir5,242,IV,2018,November
+ dhaka, sb1,1,IV,2018,November
+ dhaka, se1,1,IV,2018,November
+ dhaka, se3,1,IV,2018,November
+ djibouti, dv1,3,IV,2018,November
+ djibouti, dv2,1,IV,2018,November
+ djibouti, dv3,1,IV,2018,November
+ djibouti, f11,4,IV,2018,November
+ djibouti, f12,6,IV,2018,November
+ djibouti, f33,1,IV,2018,November
+ djibouti, f41,1,IV,2018,November
+ djibouti, f42,1,IV,2018,November
+ djibouti, f43,5,IV,2018,November
+ djibouti, fx1,4,IV,2018,November
+ djibouti, fx2,8,IV,2018,November
+ djibouti, ir1,18,IV,2018,November
+ djibouti, ir2,26,IV,2018,November
+ djibouti, ir5,2,IV,2018,November
+ doha, cr1,4,IV,2018,November
+ doha, dv1,2,IV,2018,November
+ doha, dv3,2,IV,2018,November
+ doha, e31,6,IV,2018,November
+ doha, e34,3,IV,2018,November
+ doha, e35,6,IV,2018,November
+ doha, f21,1,IV,2018,November
+ doha, fx2,1,IV,2018,November
+ doha, ir1,6,IV,2018,November
+ doha, ir5,3,IV,2018,November
+ dublin, cr1,5,IV,2018,November
+ dublin, cr2,1,IV,2018,November
+ dublin, dv1,1,IV,2018,November
+ dublin, dv2,1,IV,2018,November
+ dublin, e21,1,IV,2018,November
+ dublin, e31,8,IV,2018,November
+ dublin, e34,5,IV,2018,November
+ dublin, e35,9,IV,2018,November
+ dublin, ir1,5,IV,2018,November
+ dublin, ir5,2,IV,2018,November
+ frankfurt, cr1,32,IV,2018,November
+ frankfurt, cr2,1,IV,2018,November
+ frankfurt, dv1,13,IV,2018,November
+ frankfurt, dv2,7,IV,2018,November
+ frankfurt, dv3,3,IV,2018,November
+ frankfurt, e21,3,IV,2018,November
+ frankfurt, e22,1,IV,2018,November
+ frankfurt, e23,2,IV,2018,November
+ frankfurt, e31,1,IV,2018,November
+ frankfurt, f11,2,IV,2018,November
+ frankfurt, f21,1,IV,2018,November
+ frankfurt, f31,1,IV,2018,November
+ frankfurt, f32,2,IV,2018,November
+ frankfurt, f33,1,IV,2018,November
+ frankfurt, fx1,2,IV,2018,November
+ frankfurt, fx2,2,IV,2018,November
+ frankfurt, fx3,3,IV,2018,November
+ frankfurt, ir1,35,IV,2018,November
+ frankfurt, ir2,5,IV,2018,November
+ frankfurt, ir5,9,IV,2018,November
+ frankfurt, sb1,1,IV,2018,November
+ frankfurt, sq1,1,IV,2018,November
+ freetown, cr1,10,IV,2018,November
+ freetown, cr2,2,IV,2018,November
+ freetown, dv1,2,IV,2018,November
+ freetown, dv2,1,IV,2018,November
+ freetown, dv3,1,IV,2018,November
+ freetown, f11,5,IV,2018,November
+ freetown, f12,3,IV,2018,November
+ freetown, f22,1,IV,2018,November
+ freetown, f24,1,IV,2018,November
+ freetown, f41,4,IV,2018,November
+ freetown, fx1,1,IV,2018,November
+ freetown, fx2,1,IV,2018,November
+ freetown, ir1,6,IV,2018,November
+ freetown, ir2,18,IV,2018,November
+ freetown, ir3,3,IV,2018,November
+ freetown, ir5,15,IV,2018,November
+ georgetown, cr1,52,IV,2018,November
+ georgetown, cr2,4,IV,2018,November
+ georgetown, dv1,4,IV,2018,November
+ georgetown, dv3,3,IV,2018,November
+ georgetown, f11,39,IV,2018,November
+ georgetown, f12,54,IV,2018,November
+ georgetown, f21,63,IV,2018,November
+ georgetown, f22,31,IV,2018,November
+ georgetown, f23,38,IV,2018,November
+ georgetown, f24,10,IV,2018,November
+ georgetown, f25,7,IV,2018,November
+ georgetown, f31,22,IV,2018,November
+ georgetown, f32,19,IV,2018,November
+ georgetown, f33,32,IV,2018,November
+ georgetown, f41,20,IV,2018,November
+ georgetown, f42,8,IV,2018,November
+ georgetown, f43,17,IV,2018,November
+ georgetown, fx1,83,IV,2018,November
+ georgetown, fx2,76,IV,2018,November
+ georgetown, fx3,54,IV,2018,November
+ georgetown, i51,1,IV,2018,November
+ georgetown, ir1,40,IV,2018,November
+ georgetown, ir2,50,IV,2018,November
+ georgetown, ir5,224,IV,2018,November
+ georgetown, iw1,1,IV,2018,November
+ georgetown, iw2,1,IV,2018,November
+ georgetown, sb1,1,IV,2018,November
+ guangzhou, c51,2,IV,2018,November
+ guangzhou, c52,1,IV,2018,November
+ guangzhou, c53,2,IV,2018,November
+ guangzhou, cr1,141,IV,2018,November
+ guangzhou, cr2,35,IV,2018,November
+ guangzhou, e11,7,IV,2018,November
+ guangzhou, e13,7,IV,2018,November
+ guangzhou, e14,19,IV,2018,November
+ guangzhou, e15,20,IV,2018,November
+ guangzhou, e21,4,IV,2018,November
+ guangzhou, e22,7,IV,2018,November
+ guangzhou, e23,2,IV,2018,November
+ guangzhou, e31,4,IV,2018,November
+ guangzhou, e34,4,IV,2018,November
+ guangzhou, e35,5,IV,2018,November
+ guangzhou, ew3,1,IV,2018,November
+ guangzhou, ew5,1,IV,2018,November
+ guangzhou, f11,27,IV,2018,November
+ guangzhou, f12,13,IV,2018,November
+ guangzhou, f21,68,IV,2018,November
+ guangzhou, f22,31,IV,2018,November
+ guangzhou, f23,4,IV,2018,November
+ guangzhou, f24,27,IV,2018,November
+ guangzhou, f25,11,IV,2018,November
+ guangzhou, f31,66,IV,2018,November
+ guangzhou, f32,62,IV,2018,November
+ guangzhou, f33,78,IV,2018,November
+ guangzhou, f41,230,IV,2018,November
+ guangzhou, f42,184,IV,2018,November
+ guangzhou, f43,168,IV,2018,November
+ guangzhou, fx1,106,IV,2018,November
+ guangzhou, fx2,67,IV,2018,November
+ guangzhou, fx3,5,IV,2018,November
+ guangzhou, i51,41,IV,2018,November
+ guangzhou, i52,32,IV,2018,November
+ guangzhou, i53,63,IV,2018,November
+ guangzhou, ih3,123,IV,2018,November
+ guangzhou, ir1,95,IV,2018,November
+ guangzhou, ir2,56,IV,2018,November
+ guangzhou, ir5,547,IV,2018,November
+ guangzhou, sb1,8,IV,2018,November
+ guangzhou, t51,1,IV,2018,November
+ guangzhou, t52,1,IV,2018,November
+ guangzhou, t53,2,IV,2018,November
+ guatemala, cr1,24,IV,2018,November
+ guatemala, cr2,10,IV,2018,November
+ guatemala, e32,1,IV,2018,November
+ guatemala, f11,20,IV,2018,November
+ guatemala, f12,14,IV,2018,November
+ guatemala, f21,7,IV,2018,November
+ guatemala, f22,7,IV,2018,November
+ guatemala, f23,7,IV,2018,November
+ guatemala, f24,15,IV,2018,November
+ guatemala, f25,5,IV,2018,November
+ guatemala, f31,6,IV,2018,November
+ guatemala, f32,4,IV,2018,November
+ guatemala, f33,3,IV,2018,November
+ guatemala, f41,9,IV,2018,November
+ guatemala, f42,4,IV,2018,November
+ guatemala, f43,12,IV,2018,November
+ guatemala, fx1,45,IV,2018,November
+ guatemala, fx2,31,IV,2018,November
+ guatemala, fx3,36,IV,2018,November
+ guatemala, ir1,177,IV,2018,November
+ guatemala, ir2,72,IV,2018,November
+ guatemala, ir5,68,IV,2018,November
+ guatemala, iw1,1,IV,2018,November
+ guatemala, su3,2,IV,2018,November
+ guayaquil, cr1,56,IV,2018,November
+ guayaquil, cr2,15,IV,2018,November
+ guayaquil, dv1,4,IV,2018,November
+ guayaquil, dv2,2,IV,2018,November
+ guayaquil, e21,1,IV,2018,November
+ guayaquil, e22,1,IV,2018,November
+ guayaquil, e23,3,IV,2018,November
+ guayaquil, e31,1,IV,2018,November
+ guayaquil, e34,1,IV,2018,November
+ guayaquil, e35,5,IV,2018,November
+ guayaquil, ew5,1,IV,2018,November
+ guayaquil, f11,25,IV,2018,November
+ guayaquil, f12,22,IV,2018,November
+ guayaquil, f21,11,IV,2018,November
+ guayaquil, f22,8,IV,2018,November
+ guayaquil, f23,12,IV,2018,November
+ guayaquil, f24,10,IV,2018,November
+ guayaquil, f25,13,IV,2018,November
+ guayaquil, f31,16,IV,2018,November
+ guayaquil, f32,10,IV,2018,November
+ guayaquil, f33,19,IV,2018,November
+ guayaquil, f41,28,IV,2018,November
+ guayaquil, f42,8,IV,2018,November
+ guayaquil, f43,17,IV,2018,November
+ guayaquil, fx1,32,IV,2018,November
+ guayaquil, fx2,18,IV,2018,November
+ guayaquil, fx3,22,IV,2018,November
+ guayaquil, ib1,1,IV,2018,November
+ guayaquil, ir1,152,IV,2018,November
+ guayaquil, ir2,83,IV,2018,November
+ guayaquil, ir5,144,IV,2018,November
+ guayaquil, iw1,2,IV,2018,November
+ guayaquil, sb1,1,IV,2018,November
+ hamilton, ib1,1,IV,2018,November
+ hanoi, ih3,5,IV,2018,November
+ hanoi, se1,1,IV,2018,November
+ harare, f11,1,IV,2018,November
+ harare, fx2,1,IV,2018,November
+ harare, ir2,2,IV,2018,November
+ harare, ir5,7,IV,2018,November
+ helsinki, cr1,1,IV,2018,November
+ helsinki, dv1,2,IV,2018,November
+ helsinki, dv2,1,IV,2018,November
+ helsinki, dv3,2,IV,2018,November
+ helsinki, f21,1,IV,2018,November
+ helsinki, fx2,1,IV,2018,November
+ helsinki, ir1,1,IV,2018,November
+ helsinki, ir2,1,IV,2018,November
+ helsinki, sb1,1,IV,2018,November
+ city minh chi ho, am1,3,IV,2018,November
+ city minh chi ho, am2,7,IV,2018,November
+ city minh chi ho, c51,1,IV,2018,November
+ city minh chi ho, cr1,122,IV,2018,November
+ city minh chi ho, cr2,23,IV,2018,November
+ city minh chi ho, e31,1,IV,2018,November
+ city minh chi ho, e34,1,IV,2018,November
+ city minh chi ho, e35,1,IV,2018,November
+ city minh chi ho, f11,56,IV,2018,November
+ city minh chi ho, f12,54,IV,2018,November
+ city minh chi ho, f21,55,IV,2018,November
+ city minh chi ho, f22,16,IV,2018,November
+ city minh chi ho, f23,32,IV,2018,November
+ city minh chi ho, f24,30,IV,2018,November
+ city minh chi ho, f25,8,IV,2018,November
+ city minh chi ho, f31,154,IV,2018,November
+ city minh chi ho, f32,154,IV,2018,November
+ city minh chi ho, f33,226,IV,2018,November
+ city minh chi ho, f41,352,IV,2018,November
+ city minh chi ho, f42,261,IV,2018,November
+ city minh chi ho, f43,469,IV,2018,November
+ city minh chi ho, fx1,98,IV,2018,November
+ city minh chi ho, fx2,44,IV,2018,November
+ city minh chi ho, fx3,64,IV,2018,November
+ city minh chi ho, i51,8,IV,2018,November
+ city minh chi ho, i52,9,IV,2018,November
+ city minh chi ho, i53,27,IV,2018,November
+ city minh chi ho, ir1,49,IV,2018,November
+ city minh chi ho, ir2,47,IV,2018,November
+ city minh chi ho, ir5,261,IV,2018,November
+ city minh chi ho, sb1,2,IV,2018,November
+ city minh chi ho, t51,1,IV,2018,November
+ kong hong, cr1,7,IV,2018,November
+ kong hong, dv1,2,IV,2018,November
+ kong hong, dv2,1,IV,2018,November
+ kong hong, e21,2,IV,2018,November
+ kong hong, e22,1,IV,2018,November
+ kong hong, e23,1,IV,2018,November
+ kong hong, ew3,1,IV,2018,November
+ kong hong, ew4,1,IV,2018,November
+ kong hong, ew5,2,IV,2018,November
+ kong hong, f21,2,IV,2018,November
+ kong hong, f23,1,IV,2018,November
+ kong hong, f24,1,IV,2018,November
+ kong hong, f31,4,IV,2018,November
+ kong hong, f32,4,IV,2018,November
+ kong hong, f33,6,IV,2018,November
+ kong hong, f41,14,IV,2018,November
+ kong hong, f42,12,IV,2018,November
+ kong hong, f43,10,IV,2018,November
+ kong hong, fx1,4,IV,2018,November
+ kong hong, fx3,1,IV,2018,November
+ kong hong, i51,5,IV,2018,November
+ kong hong, i52,2,IV,2018,November
+ kong hong, i53,5,IV,2018,November
+ kong hong, ib3,2,IV,2018,November
+ kong hong, ir1,7,IV,2018,November
+ kong hong, ir2,1,IV,2018,November
+ kong hong, ir5,21,IV,2018,November
+ islamabad, cr1,76,IV,2018,November
+ islamabad, cr2,2,IV,2018,November
+ islamabad, e15,2,IV,2018,November
+ islamabad, e31,1,IV,2018,November
+ islamabad, e34,1,IV,2018,November
+ islamabad, e35,1,IV,2018,November
+ islamabad, f11,4,IV,2018,November
+ islamabad, f12,3,IV,2018,November
+ islamabad, f21,13,IV,2018,November
+ islamabad, f22,4,IV,2018,November
+ islamabad, f23,5,IV,2018,November
+ islamabad, f24,4,IV,2018,November
+ islamabad, f25,1,IV,2018,November
+ islamabad, f31,18,IV,2018,November
+ islamabad, f32,13,IV,2018,November
+ islamabad, f33,38,IV,2018,November
+ islamabad, f41,42,IV,2018,November
+ islamabad, f42,37,IV,2018,November
+ islamabad, f43,84,IV,2018,November
+ islamabad, fx1,25,IV,2018,November
+ islamabad, fx2,14,IV,2018,November
+ islamabad, fx3,13,IV,2018,November
+ islamabad, ir1,32,IV,2018,November
+ islamabad, ir2,18,IV,2018,November
+ islamabad, ir4,3,IV,2018,November
+ islamabad, ir5,119,IV,2018,November
+ islamabad, sb1,1,IV,2018,November
+ islamabad, se1,4,IV,2018,November
+ islamabad, se2,4,IV,2018,November
+ islamabad, se3,11,IV,2018,November
+ jakarta, cr1,5,IV,2018,November
+ jakarta, cr2,4,IV,2018,November
+ jakarta, e34,1,IV,2018,November
+ jakarta, f11,4,IV,2018,November
+ jakarta, f41,3,IV,2018,November
+ jakarta, f42,1,IV,2018,November
+ jakarta, f43,5,IV,2018,November
+ jakarta, fx2,1,IV,2018,November
+ jakarta, ir1,9,IV,2018,November
+ jakarta, ir2,4,IV,2018,November
+ jakarta, ir5,12,IV,2018,November
+ jerusalem, cr1,27,IV,2018,November
+ jerusalem, dv1,1,IV,2018,November
+ jerusalem, dv2,1,IV,2018,November
+ jerusalem, dv3,2,IV,2018,November
+ jerusalem, e22,1,IV,2018,November
+ jerusalem, e23,2,IV,2018,November
+ jerusalem, ew3,1,IV,2018,November
+ jerusalem, f11,2,IV,2018,November
+ jerusalem, f22,1,IV,2018,November
+ jerusalem, f24,1,IV,2018,November
+ jerusalem, f31,3,IV,2018,November
+ jerusalem, f32,2,IV,2018,November
+ jerusalem, f33,6,IV,2018,November
+ jerusalem, f41,4,IV,2018,November
+ jerusalem, f42,4,IV,2018,November
+ jerusalem, f43,8,IV,2018,November
+ jerusalem, fx1,2,IV,2018,November
+ jerusalem, ir1,14,IV,2018,November
+ jerusalem, ir2,9,IV,2018,November
+ jerusalem, ir5,14,IV,2018,November
+ jerusalem, sb1,1,IV,2018,November
+ johannesburg, cr1,10,IV,2018,November
+ johannesburg, cr2,5,IV,2018,November
+ johannesburg, dv1,5,IV,2018,November
+ johannesburg, dv2,4,IV,2018,November
+ johannesburg, dv3,4,IV,2018,November
+ johannesburg, e15,1,IV,2018,November
+ johannesburg, e21,1,IV,2018,November
+ johannesburg, e22,1,IV,2018,November
+ johannesburg, e23,3,IV,2018,November
+ johannesburg, e31,4,IV,2018,November
+ johannesburg, e34,3,IV,2018,November
+ johannesburg, e35,3,IV,2018,November
+ johannesburg, f11,1,IV,2018,November
+ johannesburg, f31,1,IV,2018,November
+ johannesburg, f32,1,IV,2018,November
+ johannesburg, f33,3,IV,2018,November
+ johannesburg, f41,3,IV,2018,November
+ johannesburg, f42,1,IV,2018,November
+ johannesburg, f43,3,IV,2018,November
+ johannesburg, fx1,3,IV,2018,November
+ johannesburg, fx3,2,IV,2018,November
+ johannesburg, i51,1,IV,2018,November
+ johannesburg, i52,1,IV,2018,November
+ johannesburg, i53,1,IV,2018,November
+ johannesburg, ih3,5,IV,2018,November
+ johannesburg, ir1,7,IV,2018,November
+ johannesburg, ir2,6,IV,2018,November
+ johannesburg, ir5,12,IV,2018,November
+ johannesburg, iw1,1,IV,2018,November
+ johannesburg, iw2,1,IV,2018,November
+ kabul, cr1,14,IV,2018,November
+ kabul, dv1,1,IV,2018,November
+ kabul, f21,2,IV,2018,November
+ kabul, f31,1,IV,2018,November
+ kabul, f33,6,IV,2018,November
+ kabul, fx1,10,IV,2018,November
+ kabul, fx2,5,IV,2018,November
+ kabul, fx3,2,IV,2018,November
+ kabul, ir1,8,IV,2018,November
+ kabul, ir2,6,IV,2018,November
+ kabul, ir5,28,IV,2018,November
+ kabul, si1,1,IV,2018,November
+ kabul, si2,2,IV,2018,November
+ kabul, si3,5,IV,2018,November
+ kabul, sq1,181,IV,2018,November
+ kabul, sq2,150,IV,2018,November
+ kabul, sq3,371,IV,2018,November
+ kampala, ir3,6,IV,2018,November
+ kathmandu, cr1,53,IV,2018,November
+ kathmandu, dv1,106,IV,2018,November
+ kathmandu, dv2,46,IV,2018,November
+ kathmandu, dv3,34,IV,2018,November
+ kathmandu, e21,1,IV,2018,November
+ kathmandu, e22,2,IV,2018,November
+ kathmandu, e23,2,IV,2018,November
+ kathmandu, e31,6,IV,2018,November
+ kathmandu, e34,2,IV,2018,November
+ kathmandu, f11,1,IV,2018,November
+ kathmandu, f21,21,IV,2018,November
+ kathmandu, f22,6,IV,2018,November
+ kathmandu, f31,2,IV,2018,November
+ kathmandu, f32,2,IV,2018,November
+ kathmandu, f33,2,IV,2018,November
+ kathmandu, f41,5,IV,2018,November
+ kathmandu, f42,4,IV,2018,November
+ kathmandu, f43,6,IV,2018,November
+ kathmandu, fx1,18,IV,2018,November
+ kathmandu, fx2,6,IV,2018,November
+ kathmandu, ir1,13,IV,2018,November
+ kathmandu, ir2,5,IV,2018,November
+ kathmandu, ir5,69,IV,2018,November
+ khartoum, cr1,11,IV,2018,November
+ khartoum, dv1,23,IV,2018,November
+ khartoum, dv2,10,IV,2018,November
+ khartoum, dv3,31,IV,2018,November
+ khartoum, f11,1,IV,2018,November
+ khartoum, f21,3,IV,2018,November
+ khartoum, f22,2,IV,2018,November
+ khartoum, fx1,4,IV,2018,November
+ khartoum, fx2,5,IV,2018,November
+ khartoum, ir1,17,IV,2018,November
+ khartoum, ir2,6,IV,2018,November
+ khartoum, ir5,19,IV,2018,November
+ khartoum, sb1,1,IV,2018,November
+ kigali, cr1,3,IV,2018,November
+ kigali, dv1,14,IV,2018,November
+ kigali, dv2,2,IV,2018,November
+ kigali, dv3,4,IV,2018,November
+ kigali, f21,2,IV,2018,November
+ kigali, f41,1,IV,2018,November
+ kigali, f43,1,IV,2018,November
+ kigali, ir2,1,IV,2018,November
+ kigali, ir5,1,IV,2018,November
+ kingston, cr1,72,IV,2018,November
+ kingston, cr2,35,IV,2018,November
+ kingston, e31,52,IV,2018,November
+ kingston, e32,1,IV,2018,November
+ kingston, e34,30,IV,2018,November
+ kingston, e35,45,IV,2018,November
+ kingston, f11,73,IV,2018,November
+ kingston, f12,71,IV,2018,November
+ kingston, f21,22,IV,2018,November
+ kingston, f22,23,IV,2018,November
+ kingston, f23,9,IV,2018,November
+ kingston, f24,9,IV,2018,November
+ kingston, f25,7,IV,2018,November
+ kingston, f31,22,IV,2018,November
+ kingston, f32,19,IV,2018,November
+ kingston, f33,25,IV,2018,November
+ kingston, f41,20,IV,2018,November
+ kingston, f42,2,IV,2018,November
+ kingston, f43,22,IV,2018,November
+ kingston, fx1,17,IV,2018,November
+ kingston, fx2,19,IV,2018,November
+ kingston, fx3,16,IV,2018,November
+ kingston, ir1,50,IV,2018,November
+ kingston, ir2,134,IV,2018,November
+ kingston, ir3,2,IV,2018,November
+ kingston, ir5,94,IV,2018,November
+ kingston, iw1,1,IV,2018,November
+ kingston, sb1,1,IV,2018,November
+ kinshasa, cr1,3,IV,2018,November
+ kinshasa, dv1,38,IV,2018,November
+ kinshasa, dv2,11,IV,2018,November
+ kinshasa, dv3,11,IV,2018,November
+ kinshasa, f21,3,IV,2018,November
+ kinshasa, f22,5,IV,2018,November
+ kinshasa, fx1,3,IV,2018,November
+ kinshasa, fx2,5,IV,2018,November
+ kinshasa, fx3,1,IV,2018,November
+ kinshasa, ir1,2,IV,2018,November
+ kinshasa, ir2,3,IV,2018,November
+ kinshasa, ir5,8,IV,2018,November
+ lumpur kuala, cr1,3,IV,2018,November
+ lumpur kuala, dv1,1,IV,2018,November
+ lumpur kuala, e31,1,IV,2018,November
+ lumpur kuala, f11,3,IV,2018,November
+ lumpur kuala, f12,1,IV,2018,November
+ lumpur kuala, f21,3,IV,2018,November
+ lumpur kuala, f22,1,IV,2018,November
+ lumpur kuala, f23,1,IV,2018,November
+ lumpur kuala, f41,2,IV,2018,November
+ lumpur kuala, fx1,2,IV,2018,November
+ lumpur kuala, fx2,2,IV,2018,November
+ lumpur kuala, i51,1,IV,2018,November
+ lumpur kuala, i53,3,IV,2018,November
+ lumpur kuala, ir1,11,IV,2018,November
+ lumpur kuala, ir2,40,IV,2018,November
+ lumpur kuala, ir5,9,IV,2018,November
+ lumpur kuala, iw1,1,IV,2018,November
+ kuwait, cr1,2,IV,2018,November
+ kuwait, e21,1,IV,2018,November
+ kuwait, e22,1,IV,2018,November
+ kuwait, e23,3,IV,2018,November
+ kuwait, e31,12,IV,2018,November
+ kuwait, e34,11,IV,2018,November
+ kuwait, e35,26,IV,2018,November
+ kuwait, f21,2,IV,2018,November
+ kuwait, f22,2,IV,2018,November
+ kuwait, f31,2,IV,2018,November
+ kuwait, f32,2,IV,2018,November
+ kuwait, f33,10,IV,2018,November
+ kuwait, f41,2,IV,2018,November
+ kuwait, f42,1,IV,2018,November
+ kuwait, f43,3,IV,2018,November
+ kuwait, i51,1,IV,2018,November
+ kuwait, ir1,1,IV,2018,November
+ kuwait, ir5,2,IV,2018,November
+ kuwait, se1,2,IV,2018,November
+ kuwait, se2,2,IV,2018,November
+ kuwait, se3,5,IV,2018,November
+ kyiv, cr1,20,IV,2018,November
+ kyiv, cr2,3,IV,2018,November
+ kyiv, dv1,58,IV,2018,November
+ kyiv, dv2,32,IV,2018,November
+ kyiv, dv3,31,IV,2018,November
+ kyiv, e21,3,IV,2018,November
+ kyiv, e22,3,IV,2018,November
+ kyiv, e23,1,IV,2018,November
+ kyiv, e32,1,IV,2018,November
+ kyiv, e34,1,IV,2018,November
+ kyiv, f11,7,IV,2018,November
+ kyiv, f12,2,IV,2018,November
+ kyiv, f21,9,IV,2018,November
+ kyiv, f22,7,IV,2018,November
+ kyiv, f24,4,IV,2018,November
+ kyiv, f31,4,IV,2018,November
+ kyiv, f32,4,IV,2018,November
+ kyiv, f33,6,IV,2018,November
+ kyiv, f41,1,IV,2018,November
+ kyiv, f42,2,IV,2018,November
+ kyiv, f43,1,IV,2018,November
+ kyiv, fx1,10,IV,2018,November
+ kyiv, fx2,3,IV,2018,November
+ kyiv, i51,1,IV,2018,November
+ kyiv, i52,1,IV,2018,November
+ kyiv, ir1,10,IV,2018,November
+ kyiv, ir2,11,IV,2018,November
+ kyiv, ir3,33,IV,2018,November
+ kyiv, ir4,6,IV,2018,November
+ kyiv, ir5,89,IV,2018,November
+ kyiv, sb1,1,IV,2018,November
+ kyiv, se1,1,IV,2018,November
+ kyiv, se2,1,IV,2018,November
+ kyiv, sr1,1,IV,2018,November
+ kyiv, sr2,1,IV,2018,November
+ kyiv, sr3,1,IV,2018,November
+ paz la, cr1,4,IV,2018,November
+ paz la, cr2,3,IV,2018,November
+ paz la, dv1,1,IV,2018,November
+ paz la, e23,2,IV,2018,November
+ paz la, e31,1,IV,2018,November
+ paz la, ew3,1,IV,2018,November
+ paz la, f11,7,IV,2018,November
+ paz la, f12,8,IV,2018,November
+ paz la, f24,1,IV,2018,November
+ paz la, f41,4,IV,2018,November
+ paz la, f42,1,IV,2018,November
+ paz la, f43,5,IV,2018,November
+ paz la, fx2,1,IV,2018,November
+ paz la, ir1,4,IV,2018,November
+ paz la, ir2,6,IV,2018,November
+ paz la, ir5,15,IV,2018,November
+ lagos, cr1,50,IV,2018,November
+ lagos, cr2,2,IV,2018,November
+ lagos, e31,24,IV,2018,November
+ lagos, e34,16,IV,2018,November
+ lagos, e35,28,IV,2018,November
+ lagos, f11,25,IV,2018,November
+ lagos, f12,7,IV,2018,November
+ lagos, f21,7,IV,2018,November
+ lagos, f22,3,IV,2018,November
+ lagos, f23,6,IV,2018,November
+ lagos, f24,2,IV,2018,November
+ lagos, f31,7,IV,2018,November
+ lagos, f32,7,IV,2018,November
+ lagos, f33,18,IV,2018,November
+ lagos, f41,28,IV,2018,November
+ lagos, f42,18,IV,2018,November
+ lagos, f43,31,IV,2018,November
+ lagos, fx1,8,IV,2018,November
+ lagos, fx2,7,IV,2018,November
+ lagos, i51,1,IV,2018,November
+ lagos, i52,1,IV,2018,November
+ lagos, i53,1,IV,2018,November
+ lagos, ib3,1,IV,2018,November
+ lagos, ir1,42,IV,2018,November
+ lagos, ir2,79,IV,2018,November
+ lagos, ir3,21,IV,2018,November
+ lagos, ir5,56,IV,2018,November
+ lagos, sb1,9,IV,2018,November
+ lagos, sd1,1,IV,2018,November
+ lagos, sd2,1,IV,2018,November
+ lagos, se1,3,IV,2018,November
+ lagos, se2,3,IV,2018,November
+ lagos, se3,10,IV,2018,November
+ libreville, cr1,1,IV,2018,November
+ libreville, f21,1,IV,2018,November
+ libreville, ir2,1,IV,2018,November
+ lilongwe, ir5,1,IV,2018,November
+ lima, cr1,23,IV,2018,November
+ lima, cr2,6,IV,2018,November
+ lima, ew3,1,IV,2018,November
+ lima, ew4,1,IV,2018,November
+ lima, f11,32,IV,2018,November
+ lima, f12,25,IV,2018,November
+ lima, f21,7,IV,2018,November
+ lima, f22,9,IV,2018,November
+ lima, f23,2,IV,2018,November
+ lima, f24,18,IV,2018,November
+ lima, f25,10,IV,2018,November
+ lima, f31,10,IV,2018,November
+ lima, f32,8,IV,2018,November
+ lima, f33,15,IV,2018,November
+ lima, f41,33,IV,2018,November
+ lima, f42,18,IV,2018,November
+ lima, f43,24,IV,2018,November
+ lima, fx1,18,IV,2018,November
+ lima, fx2,22,IV,2018,November
+ lima, fx3,4,IV,2018,November
+ lima, ih3,4,IV,2018,November
+ lima, ir1,60,IV,2018,November
+ lima, ir2,29,IV,2018,November
+ lima, ir5,80,IV,2018,November
+ lima, sb1,10,IV,2018,November
+ lisbon, f11,1,IV,2018,November
+ lisbon, ir1,1,IV,2018,November
+ lisbon, ir2,1,IV,2018,November
+ lisbon, ir5,3,IV,2018,November
+ ljubljana, ir1,1,IV,2018,November
+ lome, cr1,6,IV,2018,November
+ lome, dv1,23,IV,2018,November
+ lome, f21,3,IV,2018,November
+ lome, f22,1,IV,2018,November
+ lome, fx1,2,IV,2018,November
+ lome, fx2,1,IV,2018,November
+ lome, ir1,6,IV,2018,November
+ lome, ir2,20,IV,2018,November
+ lome, ir5,14,IV,2018,November
+ london, cr1,79,IV,2018,November
+ london, dv1,6,IV,2018,November
+ london, dv2,1,IV,2018,November
+ london, e11,1,IV,2018,November
+ london, e13,1,IV,2018,November
+ london, e14,1,IV,2018,November
+ london, e21,3,IV,2018,November
+ london, e22,1,IV,2018,November
+ london, e31,20,IV,2018,November
+ london, e32,2,IV,2018,November
+ london, e34,13,IV,2018,November
+ london, e35,16,IV,2018,November
+ london, ew3,1,IV,2018,November
+ london, ew4,1,IV,2018,November
+ london, f11,6,IV,2018,November
+ london, f12,8,IV,2018,November
+ london, f22,1,IV,2018,November
+ london, f24,2,IV,2018,November
+ london, f31,8,IV,2018,November
+ london, f32,8,IV,2018,November
+ london, f33,5,IV,2018,November
+ london, f41,8,IV,2018,November
+ london, f42,6,IV,2018,November
+ london, f43,12,IV,2018,November
+ london, fx1,7,IV,2018,November
+ london, fx2,5,IV,2018,November
+ london, fx3,2,IV,2018,November
+ london, i51,2,IV,2018,November
+ london, ir1,69,IV,2018,November
+ london, ir2,21,IV,2018,November
+ london, ir5,29,IV,2018,November
+ london, sb1,2,IV,2018,November
+ london, sq1,1,IV,2018,November
+ london, sq2,1,IV,2018,November
+ london, sq3,2,IV,2018,November
+ luanda, cr1,1,IV,2018,November
+ luanda, dv1,1,IV,2018,November
+ luanda, ir1,1,IV,2018,November
+ luanda, ir2,1,IV,2018,November
+ luanda, ir5,1,IV,2018,November
+ lusaka, f31,4,IV,2018,November
+ lusaka, ib1,1,IV,2018,November
+ lusaka, ir2,5,IV,2018,November
+ lusaka, ir5,2,IV,2018,November
+ madrid, cr1,10,IV,2018,November
+ madrid, cr2,1,IV,2018,November
+ madrid, dv1,3,IV,2018,November
+ madrid, dv2,2,IV,2018,November
+ madrid, dv3,2,IV,2018,November
+ madrid, e21,1,IV,2018,November
+ madrid, e22,1,IV,2018,November
+ madrid, e23,2,IV,2018,November
+ madrid, e31,3,IV,2018,November
+ madrid, e34,3,IV,2018,November
+ madrid, e35,4,IV,2018,November
+ madrid, f11,3,IV,2018,November
+ madrid, f12,2,IV,2018,November
+ madrid, f21,3,IV,2018,November
+ madrid, f24,1,IV,2018,November
+ madrid, f31,1,IV,2018,November
+ madrid, f32,1,IV,2018,November
+ madrid, f33,2,IV,2018,November
+ madrid, f41,1,IV,2018,November
+ madrid, f42,1,IV,2018,November
+ madrid, f43,2,IV,2018,November
+ madrid, fx1,2,IV,2018,November
+ madrid, fx2,1,IV,2018,November
+ madrid, fx3,1,IV,2018,November
+ madrid, ir1,11,IV,2018,November
+ madrid, ir2,2,IV,2018,November
+ madrid, ir5,11,IV,2018,November
+ madrid, sb1,2,IV,2018,November
+ managua, cr1,6,IV,2018,November
+ managua, cr2,4,IV,2018,November
+ managua, dv1,1,IV,2018,November
+ managua, dv2,1,IV,2018,November
+ managua, dv3,1,IV,2018,November
+ managua, f11,21,IV,2018,November
+ managua, f12,13,IV,2018,November
+ managua, f21,2,IV,2018,November
+ managua, f22,3,IV,2018,November
+ managua, f23,2,IV,2018,November
+ managua, f31,1,IV,2018,November
+ managua, fx1,8,IV,2018,November
+ managua, fx2,12,IV,2018,November
+ managua, fx3,1,IV,2018,November
+ managua, ir1,63,IV,2018,November
+ managua, ir2,38,IV,2018,November
+ managua, ir5,7,IV,2018,November
+ managua, sb1,1,IV,2018,November
+ managua, su3,1,IV,2018,November
+ manama, cr1,3,IV,2018,November
+ manama, e31,5,IV,2018,November
+ manama, e34,3,IV,2018,November
+ manama, e35,5,IV,2018,November
+ manama, f31,1,IV,2018,November
+ manama, f32,1,IV,2018,November
+ manama, f33,2,IV,2018,November
+ manama, ir1,3,IV,2018,November
+ manama, ir5,1,IV,2018,November
+ manila, cr1,127,IV,2018,November
+ manila, cr2,30,IV,2018,November
+ manila, e21,4,IV,2018,November
+ manila, e22,5,IV,2018,November
+ manila, e23,2,IV,2018,November
+ manila, e31,114,IV,2018,November
+ manila, e32,9,IV,2018,November
+ manila, e34,52,IV,2018,November
+ manila, e35,69,IV,2018,November
+ manila, ew3,6,IV,2018,November
+ manila, ew4,2,IV,2018,November
+ manila, ew5,5,IV,2018,November
+ manila, f11,59,IV,2018,November
+ manila, f12,42,IV,2018,November
+ manila, f21,44,IV,2018,November
+ manila, f22,28,IV,2018,November
+ manila, f23,21,IV,2018,November
+ manila, f24,178,IV,2018,November
+ manila, f25,149,IV,2018,November
+ manila, f31,34,IV,2018,November
+ manila, f32,30,IV,2018,November
+ manila, f33,50,IV,2018,November
+ manila, f41,61,IV,2018,November
+ manila, f42,41,IV,2018,November
+ manila, f43,39,IV,2018,November
+ manila, fx1,84,IV,2018,November
+ manila, fx2,79,IV,2018,November
+ manila, fx3,68,IV,2018,November
+ manila, i51,1,IV,2018,November
+ manila, i52,1,IV,2018,November
+ manila, ih4,7,IV,2018,November
+ manila, ir1,111,IV,2018,November
+ manila, ir2,197,IV,2018,November
+ manila, ir5,373,IV,2018,November
+ manila, iw1,2,IV,2018,November
+ manila, sb1,15,IV,2018,November
+ manila, sd1,2,IV,2018,November
+ manila, sd2,2,IV,2018,November
+ manila, sd3,2,IV,2018,November
+ monrovia, cr1,6,IV,2018,November
+ monrovia, cr2,2,IV,2018,November
+ monrovia, dv1,15,IV,2018,November
+ monrovia, dv2,5,IV,2018,November
+ monrovia, dv3,5,IV,2018,November
+ monrovia, f11,7,IV,2018,November
+ monrovia, f12,3,IV,2018,November
+ monrovia, f21,4,IV,2018,November
+ monrovia, f22,9,IV,2018,November
+ monrovia, fx1,5,IV,2018,November
+ monrovia, fx2,21,IV,2018,November
+ monrovia, ir1,5,IV,2018,November
+ monrovia, ir2,51,IV,2018,November
+ monrovia, ir3,8,IV,2018,November
+ monrovia, ir5,24,IV,2018,November
+ monrovia, su3,1,IV,2018,November
+ montevideo, f11,3,IV,2018,November
+ montevideo, f24,1,IV,2018,November
+ montevideo, ir1,1,IV,2018,November
+ montevideo, ir5,6,IV,2018,November
+ montreal, cr1,68,IV,2018,November
+ montreal, cr2,4,IV,2018,November
+ montreal, dv1,5,IV,2018,November
+ montreal, dv2,3,IV,2018,November
+ montreal, dv3,5,IV,2018,November
+ montreal, e11,4,IV,2018,November
+ montreal, e13,3,IV,2018,November
+ montreal, e14,5,IV,2018,November
+ montreal, e15,8,IV,2018,November
+ montreal, e21,9,IV,2018,November
+ montreal, e22,8,IV,2018,November
+ montreal, e23,14,IV,2018,November
+ montreal, e31,18,IV,2018,November
+ montreal, e32,6,IV,2018,November
+ montreal, e34,18,IV,2018,November
+ montreal, e35,22,IV,2018,November
+ montreal, ew3,1,IV,2018,November
+ montreal, ew4,1,IV,2018,November
+ montreal, ew5,2,IV,2018,November
+ montreal, f11,18,IV,2018,November
+ montreal, f12,5,IV,2018,November
+ montreal, f24,1,IV,2018,November
+ montreal, f31,5,IV,2018,November
+ montreal, f32,5,IV,2018,November
+ montreal, f33,11,IV,2018,November
+ montreal, f41,14,IV,2018,November
+ montreal, f42,10,IV,2018,November
+ montreal, f43,13,IV,2018,November
+ montreal, fx1,8,IV,2018,November
+ montreal, fx2,2,IV,2018,November
+ montreal, fx3,2,IV,2018,November
+ montreal, ir1,86,IV,2018,November
+ montreal, ir2,20,IV,2018,November
+ montreal, ir5,45,IV,2018,November
+ montreal, iw1,1,IV,2018,November
+ moscow, cr1,19,IV,2018,November
+ moscow, cr2,3,IV,2018,November
+ moscow, dv1,58,IV,2018,November
+ moscow, dv2,35,IV,2018,November
+ moscow, dv3,30,IV,2018,November
+ moscow, e11,2,IV,2018,November
+ moscow, e14,1,IV,2018,November
+ moscow, e21,3,IV,2018,November
+ moscow, e22,1,IV,2018,November
+ moscow, e23,1,IV,2018,November
+ moscow, e32,1,IV,2018,November
+ moscow, e34,1,IV,2018,November
+ moscow, e35,1,IV,2018,November
+ moscow, f11,7,IV,2018,November
+ moscow, f12,4,IV,2018,November
+ moscow, f21,2,IV,2018,November
+ moscow, f22,1,IV,2018,November
+ moscow, f31,5,IV,2018,November
+ moscow, f32,4,IV,2018,November
+ moscow, f33,7,IV,2018,November
+ moscow, f41,3,IV,2018,November
+ moscow, f42,2,IV,2018,November
+ moscow, f43,4,IV,2018,November
+ moscow, fx1,8,IV,2018,November
+ moscow, fx2,4,IV,2018,November
+ moscow, ir1,9,IV,2018,November
+ moscow, ir2,8,IV,2018,November
+ moscow, ir5,64,IV,2018,November
+ moscow, se1,2,IV,2018,November
+ moscow, se3,1,IV,2018,November
+ moscow, t51,1,IV,2018,November
+ moscow, t53,1,IV,2018,November
+ mumbai, cr1,176,IV,2018,November
+ mumbai, cr2,4,IV,2018,November
+ mumbai, dv1,1,IV,2018,November
+ mumbai, e11,1,IV,2018,November
+ mumbai, e13,3,IV,2018,November
+ mumbai, e14,12,IV,2018,November
+ mumbai, e15,11,IV,2018,November
+ mumbai, e21,1,IV,2018,November
+ mumbai, e22,1,IV,2018,November
+ mumbai, e23,1,IV,2018,November
+ mumbai, e31,8,IV,2018,November
+ mumbai, e32,1,IV,2018,November
+ mumbai, e34,12,IV,2018,November
+ mumbai, e35,21,IV,2018,November
+ mumbai, ew5,1,IV,2018,November
+ mumbai, f11,5,IV,2018,November
+ mumbai, f21,16,IV,2018,November
+ mumbai, f22,4,IV,2018,November
+ mumbai, f24,3,IV,2018,November
+ mumbai, f31,49,IV,2018,November
+ mumbai, f32,50,IV,2018,November
+ mumbai, f33,86,IV,2018,November
+ mumbai, f41,200,IV,2018,November
+ mumbai, f42,168,IV,2018,November
+ mumbai, f43,250,IV,2018,November
+ mumbai, fx1,36,IV,2018,November
+ mumbai, fx2,5,IV,2018,November
+ mumbai, fx3,1,IV,2018,November
+ mumbai, i51,3,IV,2018,November
+ mumbai, i52,3,IV,2018,November
+ mumbai, i53,6,IV,2018,November
+ mumbai, ir1,42,IV,2018,November
+ mumbai, ir2,20,IV,2018,November
+ mumbai, ir5,472,IV,2018,November
+ mumbai, sb1,3,IV,2018,November
+ mumbai, sd2,2,IV,2018,November
+ mumbai, sd3,6,IV,2018,November
+ mumbai, se1,3,IV,2018,November
+ mumbai, se3,1,IV,2018,November
+ mumbai, sr1,1,IV,2018,November
+ mumbai, sr2,1,IV,2018,November
+ mumbai, sr3,2,IV,2018,November
+ muscat, e31,2,IV,2018,November
+ muscat, e34,2,IV,2018,November
+ muscat, e35,4,IV,2018,November
+ muscat, f21,1,IV,2018,November
+ muscat, fx1,1,IV,2018,November
+ muscat, i51,1,IV,2018,November
+ muscat, i52,1,IV,2018,November
+ muscat, i53,2,IV,2018,November
+ muscat, ir1,5,IV,2018,November
+ muscat, ir2,3,IV,2018,November
+ naha, cr1,16,IV,2018,November
+ naha, cr2,3,IV,2018,November
+ naha, f11,1,IV,2018,November
+ naha, ir1,10,IV,2018,November
+ nairobi, cr1,29,IV,2018,November
+ nairobi, cr2,6,IV,2018,November
+ nairobi, dv1,47,IV,2018,November
+ nairobi, dv2,7,IV,2018,November
+ nairobi, dv3,15,IV,2018,November
+ nairobi, e31,26,IV,2018,November
+ nairobi, e34,13,IV,2018,November
+ nairobi, e35,19,IV,2018,November
+ nairobi, f11,12,IV,2018,November
+ nairobi, f12,6,IV,2018,November
+ nairobi, f21,6,IV,2018,November
+ nairobi, f22,9,IV,2018,November
+ nairobi, f41,1,IV,2018,November
+ nairobi, f42,1,IV,2018,November
+ nairobi, fx1,8,IV,2018,November
+ nairobi, fx2,16,IV,2018,November
+ nairobi, ir1,31,IV,2018,November
+ nairobi, ir2,43,IV,2018,November
+ nairobi, ir5,37,IV,2018,November
+ nairobi, iw1,1,IV,2018,November
+ nairobi, sb1,2,IV,2018,November
+ naples, cr1,31,IV,2018,November
+ naples, dv1,5,IV,2018,November
+ naples, dv2,2,IV,2018,November
+ naples, e32,1,IV,2018,November
+ naples, ew3,1,IV,2018,November
+ naples, ew4,1,IV,2018,November
+ naples, ew5,2,IV,2018,November
+ naples, f21,1,IV,2018,November
+ naples, f31,1,IV,2018,November
+ naples, f32,1,IV,2018,November
+ naples, f33,1,IV,2018,November
+ naples, f41,1,IV,2018,November
+ naples, f42,1,IV,2018,November
+ naples, f43,1,IV,2018,November
+ naples, fx1,3,IV,2018,November
+ naples, fx2,3,IV,2018,November
+ naples, ir1,14,IV,2018,November
+ naples, ir2,1,IV,2018,November
+ naples, ir5,8,IV,2018,November
+ nassau, e21,1,IV,2018,November
+ nassau, e22,1,IV,2018,November
+ nassau, e23,2,IV,2018,November
+ nassau, e31,2,IV,2018,November
+ nassau, e34,2,IV,2018,November
+ nassau, f11,4,IV,2018,November
+ nassau, f22,1,IV,2018,November
+ nassau, fx1,1,IV,2018,November
+ nassau, fx3,1,IV,2018,November
+ nassau, ir1,4,IV,2018,November
+ nassau, ir5,3,IV,2018,November
+ delhi new, cr1,1,IV,2018,November
+ delhi new, e31,1,IV,2018,November
+ delhi new, e34,1,IV,2018,November
+ delhi new, e35,2,IV,2018,November
+ delhi new, f11,1,IV,2018,November
+ delhi new, f24,1,IV,2018,November
+ delhi new, f31,5,IV,2018,November
+ delhi new, f32,6,IV,2018,November
+ delhi new, f33,6,IV,2018,November
+ delhi new, f41,39,IV,2018,November
+ delhi new, f42,38,IV,2018,November
+ delhi new, f43,50,IV,2018,November
+ delhi new, fx1,7,IV,2018,November
+ delhi new, fx2,3,IV,2018,November
+ delhi new, fx3,2,IV,2018,November
+ delhi new, ih3,16,IV,2018,November
+ delhi new, ir1,7,IV,2018,November
+ delhi new, ir2,4,IV,2018,November
+ delhi new, ir5,3,IV,2018,November
+ delhi new, sb1,12,IV,2018,November
+ delhi new, sd2,1,IV,2018,November
+ delhi new, sd3,2,IV,2018,November
+ delhi new, se1,1,IV,2018,November
+ delhi new, sr3,3,IV,2018,November
+ niamey, cr1,3,IV,2018,November
+ niamey, ir2,2,IV,2018,November
+ niamey, ir5,2,IV,2018,November
+ nicosia, cr1,1,IV,2018,November
+ nicosia, dv1,1,IV,2018,November
+ nicosia, ir5,1,IV,2018,November
+ nicosia, sb1,1,IV,2018,November
+ ouagadougou, cr1,2,IV,2018,November
+ ouagadougou, dv1,5,IV,2018,November
+ ouagadougou, f22,1,IV,2018,November
+ ouagadougou, fx1,1,IV,2018,November
+ ouagadougou, fx2,2,IV,2018,November
+ ouagadougou, ih3,1,IV,2018,November
+ ouagadougou, ir1,2,IV,2018,November
+ ouagadougou, ir2,3,IV,2018,November
+ ouagadougou, ir5,1,IV,2018,November
+ panama, cr1,4,IV,2018,November
+ panama, e21,1,IV,2018,November
+ panama, f11,1,IV,2018,November
+ panama, f12,1,IV,2018,November
+ panama, f21,2,IV,2018,November
+ panama, f41,1,IV,2018,November
+ panama, f42,1,IV,2018,November
+ panama, f43,2,IV,2018,November
+ panama, fx1,1,IV,2018,November
+ panama, ir1,4,IV,2018,November
+ panama, ir2,8,IV,2018,November
+ panama, ir5,10,IV,2018,November
+ paris, cr1,10,IV,2018,November
+ paris, cr2,2,IV,2018,November
+ paris, dv1,8,IV,2018,November
+ paris, dv2,4,IV,2018,November
+ paris, dv3,1,IV,2018,November
+ paris, e15,1,IV,2018,November
+ paris, e21,1,IV,2018,November
+ paris, e31,2,IV,2018,November
+ paris, e32,3,IV,2018,November
+ paris, e34,3,IV,2018,November
+ paris, e35,5,IV,2018,November
+ paris, ew3,1,IV,2018,November
+ paris, f11,4,IV,2018,November
+ paris, f12,3,IV,2018,November
+ paris, f22,2,IV,2018,November
+ paris, f31,2,IV,2018,November
+ paris, f32,2,IV,2018,November
+ paris, f33,4,IV,2018,November
+ paris, f41,5,IV,2018,November
+ paris, f42,4,IV,2018,November
+ paris, f43,1,IV,2018,November
+ paris, fx1,1,IV,2018,November
+ paris, fx2,1,IV,2018,November
+ paris, ir1,17,IV,2018,November
+ paris, ir2,2,IV,2018,November
+ paris, ir5,8,IV,2018,November
+ paris, sb1,1,IV,2018,November
+ penh phnom, cr1,21,IV,2018,November
+ penh phnom, cr2,2,IV,2018,November
+ penh phnom, f21,3,IV,2018,November
+ penh phnom, f22,1,IV,2018,November
+ penh phnom, f23,1,IV,2018,November
+ penh phnom, f24,4,IV,2018,November
+ penh phnom, f25,1,IV,2018,November
+ penh phnom, f31,1,IV,2018,November
+ penh phnom, f32,1,IV,2018,November
+ penh phnom, fx1,2,IV,2018,November
+ penh phnom, fx2,3,IV,2018,November
+ penh phnom, fx3,1,IV,2018,November
+ penh phnom, ir1,14,IV,2018,November
+ penh phnom, ir2,13,IV,2018,November
+ penh phnom, ir5,53,IV,2018,November
+ penh phnom, sd1,2,IV,2018,November
+ penh phnom, sr1,1,IV,2018,November
+ spain of port, cr1,3,IV,2018,November
+ spain of port, e31,5,IV,2018,November
+ spain of port, e34,3,IV,2018,November
+ spain of port, e35,5,IV,2018,November
+ spain of port, f11,3,IV,2018,November
+ spain of port, f12,1,IV,2018,November
+ spain of port, f22,2,IV,2018,November
+ spain of port, f24,3,IV,2018,November
+ spain of port, f25,1,IV,2018,November
+ spain of port, f31,1,IV,2018,November
+ spain of port, f32,1,IV,2018,November
+ spain of port, f33,1,IV,2018,November
+ spain of port, f41,3,IV,2018,November
+ spain of port, f42,2,IV,2018,November
+ spain of port, f43,3,IV,2018,November
+ spain of port, fx1,1,IV,2018,November
+ spain of port, fx3,2,IV,2018,November
+ spain of port, ir1,9,IV,2018,November
+ spain of port, ir2,12,IV,2018,November
+ spain of port, ir3,2,IV,2018,November
+ spain of port, ir4,1,IV,2018,November
+ spain of port, ir5,17,IV,2018,November
+ spain of port, iw2,3,IV,2018,November
+ port-au-prince, cr1,44,IV,2018,November
+ port-au-prince, cr2,20,IV,2018,November
+ port-au-prince, f11,54,IV,2018,November
+ port-au-prince, f12,59,IV,2018,November
+ port-au-prince, f21,18,IV,2018,November
+ port-au-prince, f22,22,IV,2018,November
+ port-au-prince, f23,13,IV,2018,November
+ port-au-prince, f24,43,IV,2018,November
+ port-au-prince, f25,42,IV,2018,November
+ port-au-prince, f31,13,IV,2018,November
+ port-au-prince, f32,8,IV,2018,November
+ port-au-prince, f33,23,IV,2018,November
+ port-au-prince, f41,11,IV,2018,November
+ port-au-prince, f42,4,IV,2018,November
+ port-au-prince, f43,21,IV,2018,November
+ port-au-prince, fx1,69,IV,2018,November
+ port-au-prince, fx2,60,IV,2018,November
+ port-au-prince, fx3,63,IV,2018,November
+ port-au-prince, ih3,1,IV,2018,November
+ port-au-prince, ir1,88,IV,2018,November
+ port-au-prince, ir2,132,IV,2018,November
+ port-au-prince, ir5,132,IV,2018,November
+ port-au-prince, sb1,2,IV,2018,November
+ port-au-prince, se1,3,IV,2018,November
+ port-au-prince, se2,3,IV,2018,November
+ port-au-prince, se3,6,IV,2018,November
+ prague, bc1,1,IV,2018,November
+ prague, cr1,1,IV,2018,November
+ prague, dv1,2,IV,2018,November
+ prague, dv2,1,IV,2018,November
+ prague, dv3,2,IV,2018,November
+ praia, cr1,4,IV,2018,November
+ praia, cr2,3,IV,2018,November
+ praia, f11,18,IV,2018,November
+ praia, f12,26,IV,2018,November
+ praia, f21,6,IV,2018,November
+ praia, f22,2,IV,2018,November
+ praia, f23,7,IV,2018,November
+ praia, f24,11,IV,2018,November
+ praia, f25,17,IV,2018,November
+ praia, fx2,3,IV,2018,November
+ praia, ir1,3,IV,2018,November
+ praia, ir2,4,IV,2018,November
+ praia, ir5,10,IV,2018,November
+ pristina, cr1,11,IV,2018,November
+ pristina, dv1,7,IV,2018,November
+ pristina, dv2,2,IV,2018,November
+ pristina, dv3,4,IV,2018,November
+ pristina, f11,1,IV,2018,November
+ pristina, f12,2,IV,2018,November
+ pristina, f21,4,IV,2018,November
+ pristina, f41,2,IV,2018,November
+ pristina, f42,1,IV,2018,November
+ pristina, fx1,4,IV,2018,November
+ pristina, fx2,4,IV,2018,November
+ pristina, ir1,5,IV,2018,November
+ pristina, ir2,3,IV,2018,November
+ pristina, ir5,11,IV,2018,November
+ rangoon, cr1,18,IV,2018,November
+ rangoon, dv1,4,IV,2018,November
+ rangoon, dv2,2,IV,2018,November
+ rangoon, dv3,4,IV,2018,November
+ rangoon, f11,3,IV,2018,November
+ rangoon, f12,2,IV,2018,November
+ rangoon, f21,4,IV,2018,November
+ rangoon, f22,2,IV,2018,November
+ rangoon, f24,1,IV,2018,November
+ rangoon, f41,15,IV,2018,November
+ rangoon, f42,10,IV,2018,November
+ rangoon, f43,19,IV,2018,November
+ rangoon, fx1,1,IV,2018,November
+ rangoon, ir1,6,IV,2018,November
+ rangoon, ir2,3,IV,2018,November
+ rangoon, ir5,29,IV,2018,November
+ rangoon, sb1,2,IV,2018,November
+ rangoon, se1,1,IV,2018,November
+ rangoon, se2,1,IV,2018,November
+ rangoon, se3,2,IV,2018,November
+ reykjavik, f11,1,IV,2018,November
+ riga, f41,1,IV,2018,November
+ riga, ih3,4,IV,2018,November
+ riga, ir5,7,IV,2018,November
+ janeiro de rio, cr1,20,IV,2018,November
+ janeiro de rio, cr2,6,IV,2018,November
+ janeiro de rio, dv1,2,IV,2018,November
+ janeiro de rio, e31,4,IV,2018,November
+ janeiro de rio, e34,2,IV,2018,November
+ janeiro de rio, e35,2,IV,2018,November
+ janeiro de rio, f11,7,IV,2018,November
+ janeiro de rio, f12,4,IV,2018,November
+ janeiro de rio, f23,1,IV,2018,November
+ janeiro de rio, f24,1,IV,2018,November
+ janeiro de rio, f31,4,IV,2018,November
+ janeiro de rio, f32,4,IV,2018,November
+ janeiro de rio, f33,4,IV,2018,November
+ janeiro de rio, f41,2,IV,2018,November
+ janeiro de rio, f42,1,IV,2018,November
+ janeiro de rio, f43,1,IV,2018,November
+ janeiro de rio, fx1,9,IV,2018,November
+ janeiro de rio, fx2,5,IV,2018,November
+ janeiro de rio, fx3,5,IV,2018,November
+ janeiro de rio, i51,1,IV,2018,November
+ janeiro de rio, i52,1,IV,2018,November
+ janeiro de rio, i53,2,IV,2018,November
+ janeiro de rio, ih3,5,IV,2018,November
+ janeiro de rio, ir1,63,IV,2018,November
+ janeiro de rio, ir2,27,IV,2018,November
+ janeiro de rio, ir5,58,IV,2018,November
+ janeiro de rio, iw1,1,IV,2018,November
+ janeiro de rio, sb1,1,IV,2018,November
+ janeiro de rio, sd1,1,IV,2018,November
+ janeiro de rio, sd2,1,IV,2018,November
+ janeiro de rio, sd3,1,IV,2018,November
+ riyadh, cr1,10,IV,2018,November
+ riyadh, dv1,6,IV,2018,November
+ riyadh, dv2,3,IV,2018,November
+ riyadh, dv3,2,IV,2018,November
+ riyadh, e11,2,IV,2018,November
+ riyadh, e14,2,IV,2018,November
+ riyadh, e15,4,IV,2018,November
+ riyadh, e21,1,IV,2018,November
+ riyadh, e22,1,IV,2018,November
+ riyadh, e23,3,IV,2018,November
+ riyadh, e31,3,IV,2018,November
+ riyadh, e34,1,IV,2018,November
+ riyadh, f31,3,IV,2018,November
+ riyadh, f32,3,IV,2018,November
+ riyadh, f33,12,IV,2018,November
+ riyadh, f41,1,IV,2018,November
+ riyadh, fx1,3,IV,2018,November
+ riyadh, fx2,3,IV,2018,November
+ riyadh, ir1,12,IV,2018,November
+ riyadh, ir2,6,IV,2018,November
+ riyadh, ir5,12,IV,2018,November
+ riyadh, sb1,1,IV,2018,November
+ jose san, cr1,10,IV,2018,November
+ jose san, cr2,1,IV,2018,November
+ jose san, dv1,1,IV,2018,November
+ jose san, dv2,1,IV,2018,November
+ jose san, e31,1,IV,2018,November
+ jose san, e34,1,IV,2018,November
+ jose san, e35,1,IV,2018,November
+ jose san, f11,3,IV,2018,November
+ jose san, f21,1,IV,2018,November
+ jose san, f22,2,IV,2018,November
+ jose san, f31,1,IV,2018,November
+ jose san, f32,1,IV,2018,November
+ jose san, f33,2,IV,2018,November
+ jose san, f41,4,IV,2018,November
+ jose san, f42,2,IV,2018,November
+ jose san, f43,1,IV,2018,November
+ jose san, fx2,2,IV,2018,November
+ jose san, fx3,1,IV,2018,November
+ jose san, ib3,1,IV,2018,November
+ jose san, ih3,2,IV,2018,November
+ jose san, ir1,19,IV,2018,November
+ jose san, ir2,13,IV,2018,November
+ jose san, ir5,4,IV,2018,November
+ salvador san, cr1,68,IV,2018,November
+ salvador san, cr2,22,IV,2018,November
+ salvador san, e31,1,IV,2018,November
+ salvador san, ew3,2,IV,2018,November
+ salvador san, ew5,1,IV,2018,November
+ salvador san, f11,47,IV,2018,November
+ salvador san, f12,45,IV,2018,November
+ salvador san, f21,27,IV,2018,November
+ salvador san, f22,11,IV,2018,November
+ salvador san, f23,11,IV,2018,November
+ salvador san, f24,22,IV,2018,November
+ salvador san, f25,10,IV,2018,November
+ salvador san, f31,15,IV,2018,November
+ salvador san, f32,13,IV,2018,November
+ salvador san, f33,27,IV,2018,November
+ salvador san, f41,30,IV,2018,November
+ salvador san, f42,12,IV,2018,November
+ salvador san, f43,32,IV,2018,November
+ salvador san, fx1,74,IV,2018,November
+ salvador san, fx2,48,IV,2018,November
+ salvador san, fx3,57,IV,2018,November
+ salvador san, ib3,1,IV,2018,November
+ salvador san, ir1,180,IV,2018,November
+ salvador san, ir2,92,IV,2018,November
+ salvador san, ir5,106,IV,2018,November
+ salvador san, su3,1,IV,2018,November
+ santiago, cr1,5,IV,2018,November
+ santiago, f21,1,IV,2018,November
+ santiago, f22,1,IV,2018,November
+ santiago, f24,1,IV,2018,November
+ santiago, f41,1,IV,2018,November
+ santiago, ir1,5,IV,2018,November
+ santiago, ir2,2,IV,2018,November
+ santiago, ir5,9,IV,2018,November
+ domingo santo, cr1,379,IV,2018,November
+ domingo santo, cr2,131,IV,2018,November
+ domingo santo, e31,2,IV,2018,November
+ domingo santo, e34,2,IV,2018,November
+ domingo santo, e35,4,IV,2018,November
+ domingo santo, f11,149,IV,2018,November
+ domingo santo, f12,160,IV,2018,November
+ domingo santo, f21,204,IV,2018,November
+ domingo santo, f22,101,IV,2018,November
+ domingo santo, f23,137,IV,2018,November
+ domingo santo, f24,151,IV,2018,November
+ domingo santo, f25,206,IV,2018,November
+ domingo santo, f31,24,IV,2018,November
+ domingo santo, f32,24,IV,2018,November
+ domingo santo, f33,37,IV,2018,November
+ domingo santo, f41,61,IV,2018,November
+ domingo santo, f42,29,IV,2018,November
+ domingo santo, f43,51,IV,2018,November
+ domingo santo, fx1,321,IV,2018,November
+ domingo santo, fx2,165,IV,2018,November
+ domingo santo, fx3,279,IV,2018,November
+ domingo santo, ib3,11,IV,2018,November
+ domingo santo, ir1,243,IV,2018,November
+ domingo santo, ir2,343,IV,2018,November
+ domingo santo, ir5,435,IV,2018,November
+ domingo santo, iw1,1,IV,2018,November
+ sarajevo, cr1,2,IV,2018,November
+ sarajevo, dv1,1,IV,2018,November
+ sarajevo, dv2,1,IV,2018,November
+ sarajevo, f41,1,IV,2018,November
+ sarajevo, f43,1,IV,2018,November
+ sarajevo, ir1,3,IV,2018,November
+ sarajevo, ir2,1,IV,2018,November
+ sarajevo, ir5,1,IV,2018,November
+ seoul, cr1,38,IV,2018,November
+ seoul, e11,1,IV,2018,November
+ seoul, e13,1,IV,2018,November
+ seoul, e14,3,IV,2018,November
+ seoul, e15,8,IV,2018,November
+ seoul, e21,43,IV,2018,November
+ seoul, e22,30,IV,2018,November
+ seoul, e23,57,IV,2018,November
+ seoul, e31,11,IV,2018,November
+ seoul, e32,3,IV,2018,November
+ seoul, e34,7,IV,2018,November
+ seoul, e35,15,IV,2018,November
+ seoul, ew3,3,IV,2018,November
+ seoul, ew4,3,IV,2018,November
+ seoul, ew5,3,IV,2018,November
+ seoul, f11,1,IV,2018,November
+ seoul, f21,1,IV,2018,November
+ seoul, f22,2,IV,2018,November
+ seoul, f24,3,IV,2018,November
+ seoul, f31,3,IV,2018,November
+ seoul, f32,4,IV,2018,November
+ seoul, f33,4,IV,2018,November
+ seoul, f41,13,IV,2018,November
+ seoul, f42,9,IV,2018,November
+ seoul, f43,15,IV,2018,November
+ seoul, fx1,4,IV,2018,November
+ seoul, fx3,1,IV,2018,November
+ seoul, i51,6,IV,2018,November
+ seoul, i52,3,IV,2018,November
+ seoul, i53,5,IV,2018,November
+ seoul, ir1,34,IV,2018,November
+ seoul, ir2,8,IV,2018,November
+ seoul, ir3,8,IV,2018,November
+ seoul, ir5,59,IV,2018,November
+ seoul, sb1,1,IV,2018,November
+ singapore, cr1,8,IV,2018,November
+ singapore, dv1,1,IV,2018,November
+ singapore, e13,1,IV,2018,November
+ singapore, e14,1,IV,2018,November
+ singapore, e15,1,IV,2018,November
+ singapore, e31,8,IV,2018,November
+ singapore, e34,2,IV,2018,November
+ singapore, f11,2,IV,2018,November
+ singapore, f41,1,IV,2018,November
+ singapore, f42,1,IV,2018,November
+ singapore, f43,4,IV,2018,November
+ singapore, i51,1,IV,2018,November
+ singapore, i53,2,IV,2018,November
+ singapore, ir1,6,IV,2018,November
+ singapore, ir2,1,IV,2018,November
+ singapore, ir5,1,IV,2018,November
+ skopje, cr1,4,IV,2018,November
+ skopje, dv1,13,IV,2018,November
+ skopje, dv2,9,IV,2018,November
+ skopje, dv3,13,IV,2018,November
+ skopje, f21,3,IV,2018,November
+ skopje, f31,4,IV,2018,November
+ skopje, f32,4,IV,2018,November
+ skopje, f33,4,IV,2018,November
+ skopje, f41,3,IV,2018,November
+ skopje, f42,3,IV,2018,November
+ skopje, f43,3,IV,2018,November
+ skopje, fx1,1,IV,2018,November
+ skopje, ir1,3,IV,2018,November
+ skopje, ir2,1,IV,2018,November
+ skopje, ir5,12,IV,2018,November
+ sofia, cr1,4,IV,2018,November
+ sofia, dv1,8,IV,2018,November
+ sofia, dv2,6,IV,2018,November
+ sofia, dv3,4,IV,2018,November
+ sofia, e31,1,IV,2018,November
+ sofia, e34,1,IV,2018,November
+ sofia, e35,1,IV,2018,November
+ sofia, f11,2,IV,2018,November
+ sofia, f31,1,IV,2018,November
+ sofia, f32,1,IV,2018,November
+ sofia, f33,1,IV,2018,November
+ sofia, f41,1,IV,2018,November
+ sofia, f42,1,IV,2018,November
+ sofia, fx1,1,IV,2018,November
+ sofia, fx2,1,IV,2018,November
+ sofia, ih3,10,IV,2018,November
+ sofia, ir1,2,IV,2018,November
+ sofia, ir2,2,IV,2018,November
+ sofia, ir5,30,IV,2018,November
+ sofia, sb1,1,IV,2018,November
+ stockholm, cr1,8,IV,2018,November
+ stockholm, cr2,1,IV,2018,November
+ stockholm, e11,1,IV,2018,November
+ stockholm, e15,1,IV,2018,November
+ stockholm, f41,1,IV,2018,November
+ stockholm, f42,1,IV,2018,November
+ stockholm, f43,3,IV,2018,November
+ stockholm, fx1,1,IV,2018,November
+ stockholm, ir1,11,IV,2018,November
+ stockholm, sq2,1,IV,2018,November
+ suva, cr1,10,IV,2018,November
+ suva, cr2,1,IV,2018,November
+ suva, dv1,5,IV,2018,November
+ suva, dv2,1,IV,2018,November
+ suva, dv3,1,IV,2018,November
+ suva, e31,1,IV,2018,November
+ suva, e35,1,IV,2018,November
+ suva, f11,1,IV,2018,November
+ suva, f24,1,IV,2018,November
+ suva, f31,3,IV,2018,November
+ suva, f32,3,IV,2018,November
+ suva, f33,5,IV,2018,November
+ suva, f41,3,IV,2018,November
+ suva, f42,3,IV,2018,November
+ suva, f43,4,IV,2018,November
+ suva, fx2,1,IV,2018,November
+ suva, ir1,5,IV,2018,November
+ suva, ir2,2,IV,2018,November
+ suva, ir5,7,IV,2018,November
+ sydney, cr1,16,IV,2018,November
+ sydney, cr2,1,IV,2018,November
+ sydney, dv1,18,IV,2018,November
+ sydney, dv2,5,IV,2018,November
+ sydney, dv3,8,IV,2018,November
+ sydney, e21,1,IV,2018,November
+ sydney, e22,1,IV,2018,November
+ sydney, e23,1,IV,2018,November
+ sydney, e31,3,IV,2018,November
+ sydney, e32,1,IV,2018,November
+ sydney, e34,2,IV,2018,November
+ sydney, e35,6,IV,2018,November
+ sydney, f11,1,IV,2018,November
+ sydney, f31,4,IV,2018,November
+ sydney, f32,4,IV,2018,November
+ sydney, f33,6,IV,2018,November
+ sydney, f41,2,IV,2018,November
+ sydney, f42,1,IV,2018,November
+ sydney, fx1,2,IV,2018,November
+ sydney, i51,2,IV,2018,November
+ sydney, i52,1,IV,2018,November
+ sydney, i53,2,IV,2018,November
+ sydney, ir1,17,IV,2018,November
+ sydney, ir2,3,IV,2018,November
+ sydney, ir5,2,IV,2018,November
+ sydney, sb1,1,IV,2018,November
+ sydney, sq1,1,IV,2018,November
+ tallinn, cr1,3,IV,2018,November
+ tashkent, cr1,1,IV,2018,November
+ tashkent, dv1,35,IV,2018,November
+ tashkent, dv2,26,IV,2018,November
+ tashkent, dv3,37,IV,2018,November
+ tashkent, f11,2,IV,2018,November
+ tashkent, f21,4,IV,2018,November
+ tashkent, f24,1,IV,2018,November
+ tashkent, f31,1,IV,2018,November
+ tashkent, f32,1,IV,2018,November
+ tashkent, f33,2,IV,2018,November
+ tashkent, fx1,18,IV,2018,November
+ tashkent, fx2,12,IV,2018,November
+ tashkent, ir5,7,IV,2018,November
+ tashkent, sb1,1,IV,2018,November
+ tbilisi, cr1,3,IV,2018,November
+ tbilisi, cr2,6,IV,2018,November
+ tbilisi, dv1,22,IV,2018,November
+ tbilisi, dv2,12,IV,2018,November
+ tbilisi, dv3,19,IV,2018,November
+ tbilisi, f11,2,IV,2018,November
+ tbilisi, f21,2,IV,2018,November
+ tbilisi, f31,1,IV,2018,November
+ tbilisi, f32,1,IV,2018,November
+ tbilisi, f33,3,IV,2018,November
+ tbilisi, fx1,1,IV,2018,November
+ tbilisi, fx2,1,IV,2018,November
+ tbilisi, ih3,1,IV,2018,November
+ tbilisi, ir1,2,IV,2018,November
+ tbilisi, ir2,5,IV,2018,November
+ tbilisi, ir5,11,IV,2018,November
+ tbilisi, se1,1,IV,2018,November
+ tegucigalpa, cr1,34,IV,2018,November
+ tegucigalpa, cr2,17,IV,2018,November
+ tegucigalpa, e31,1,IV,2018,November
+ tegucigalpa, f11,16,IV,2018,November
+ tegucigalpa, f12,15,IV,2018,November
+ tegucigalpa, f21,8,IV,2018,November
+ tegucigalpa, f22,7,IV,2018,November
+ tegucigalpa, f24,2,IV,2018,November
+ tegucigalpa, f31,4,IV,2018,November
+ tegucigalpa, f32,4,IV,2018,November
+ tegucigalpa, f33,6,IV,2018,November
+ tegucigalpa, f41,4,IV,2018,November
+ tegucigalpa, f42,4,IV,2018,November
+ tegucigalpa, f43,8,IV,2018,November
+ tegucigalpa, fx1,25,IV,2018,November
+ tegucigalpa, fx2,20,IV,2018,November
+ tegucigalpa, fx3,19,IV,2018,November
+ tegucigalpa, ib2,1,IV,2018,November
+ tegucigalpa, ib3,6,IV,2018,November
+ tegucigalpa, ir1,489,IV,2018,November
+ tegucigalpa, ir2,227,IV,2018,November
+ tegucigalpa, ir3,2,IV,2018,November
+ tegucigalpa, ir5,92,IV,2018,November
+ tegucigalpa, iw1,3,IV,2018,November
+ tegucigalpa, iw2,2,IV,2018,November
+ tegucigalpa, su3,3,IV,2018,November
+ tirana, cr1,18,IV,2018,November
+ tirana, cr2,1,IV,2018,November
+ tirana, dv1,83,IV,2018,November
+ tirana, dv2,47,IV,2018,November
+ tirana, dv3,48,IV,2018,November
+ tirana, e14,1,IV,2018,November
+ tirana, e15,2,IV,2018,November
+ tirana, e35,1,IV,2018,November
+ tirana, ew3,2,IV,2018,November
+ tirana, ew5,1,IV,2018,November
+ tirana, f11,6,IV,2018,November
+ tirana, f12,1,IV,2018,November
+ tirana, f21,11,IV,2018,November
+ tirana, f22,5,IV,2018,November
+ tirana, f31,6,IV,2018,November
+ tirana, f32,6,IV,2018,November
+ tirana, f33,11,IV,2018,November
+ tirana, f41,24,IV,2018,November
+ tirana, f42,16,IV,2018,November
+ tirana, f43,28,IV,2018,November
+ tirana, fx1,6,IV,2018,November
+ tirana, fx2,2,IV,2018,November
+ tirana, fx3,1,IV,2018,November
+ tirana, ir1,4,IV,2018,November
+ tirana, ir5,58,IV,2018,November
+ tokyo, cr1,54,IV,2018,November
+ tokyo, cr2,5,IV,2018,November
+ tokyo, dv1,2,IV,2018,November
+ tokyo, dv2,1,IV,2018,November
+ tokyo, dv3,1,IV,2018,November
+ tokyo, e31,3,IV,2018,November
+ tokyo, e32,2,IV,2018,November
+ tokyo, e34,4,IV,2018,November
+ tokyo, e35,2,IV,2018,November
+ tokyo, ew5,1,IV,2018,November
+ tokyo, f11,1,IV,2018,November
+ tokyo, f12,2,IV,2018,November
+ tokyo, f21,1,IV,2018,November
+ tokyo, f23,1,IV,2018,November
+ tokyo, f24,1,IV,2018,November
+ tokyo, f31,1,IV,2018,November
+ tokyo, f32,1,IV,2018,November
+ tokyo, f33,2,IV,2018,November
+ tokyo, f41,1,IV,2018,November
+ tokyo, f43,1,IV,2018,November
+ tokyo, fx1,1,IV,2018,November
+ tokyo, i51,2,IV,2018,November
+ tokyo, i52,2,IV,2018,November
+ tokyo, ir1,41,IV,2018,November
+ tokyo, ir2,2,IV,2018,November
+ tokyo, ir5,9,IV,2018,November
+ tunis, cr1,3,IV,2018,November
+ tunis, dv1,1,IV,2018,November
+ tunis, f21,1,IV,2018,November
+ tunis, ir1,1,IV,2018,November
+ tunis, ir2,7,IV,2018,November
+ tunis, ir5,3,IV,2018,November
+ tunis, sb1,1,IV,2018,November
+ ulaanbaatar, cr1,1,IV,2018,November
+ ulaanbaatar, dv1,2,IV,2018,November
+ ulaanbaatar, dv2,2,IV,2018,November
+ ulaanbaatar, dv3,4,IV,2018,November
+ ulaanbaatar, e21,1,IV,2018,November
+ ulaanbaatar, e22,1,IV,2018,November
+ ulaanbaatar, ew3,1,IV,2018,November
+ ulaanbaatar, ew4,1,IV,2018,November
+ ulaanbaatar, ew5,2,IV,2018,November
+ ulaanbaatar, f41,1,IV,2018,November
+ ulaanbaatar, f42,1,IV,2018,November
+ ulaanbaatar, f43,1,IV,2018,November
+ ulaanbaatar, ir2,1,IV,2018,November
+ ulaanbaatar, ir5,7,IV,2018,November
+ vienna, cr1,1,IV,2018,November
+ vienna, f12,1,IV,2018,November
+ vienna, ir1,3,IV,2018,November
+ vienna, ir5,2,IV,2018,November
+ vientiane, cr1,2,IV,2018,November
+ vientiane, f11,1,IV,2018,November
+ vientiane, f22,5,IV,2018,November
+ vientiane, fx1,1,IV,2018,November
+ vientiane, fx2,3,IV,2018,November
+ vientiane, ir1,2,IV,2018,November
+ vientiane, ir2,6,IV,2018,November
+ vientiane, ir5,12,IV,2018,November
+ vilnius, cr1,1,IV,2018,November
+ vilnius, dv1,6,IV,2018,November
+ vilnius, dv2,5,IV,2018,November
+ vilnius, dv3,3,IV,2018,November
+ vilnius, f11,2,IV,2018,November
+ vilnius, ir1,1,IV,2018,November
+ vilnius, ir5,2,IV,2018,November
+ warsaw, cr1,15,IV,2018,November
+ warsaw, dv1,35,IV,2018,November
+ warsaw, dv2,22,IV,2018,November
+ warsaw, dv3,23,IV,2018,November
+ warsaw, e31,5,IV,2018,November
+ warsaw, e34,2,IV,2018,November
+ warsaw, e35,2,IV,2018,November
+ warsaw, ew3,2,IV,2018,November
+ warsaw, ew4,1,IV,2018,November
+ warsaw, f11,4,IV,2018,November
+ warsaw, f12,1,IV,2018,November
+ warsaw, f21,1,IV,2018,November
+ warsaw, f24,1,IV,2018,November
+ warsaw, f31,6,IV,2018,November
+ warsaw, f32,4,IV,2018,November
+ warsaw, f33,5,IV,2018,November
+ warsaw, f41,3,IV,2018,November
+ warsaw, f42,2,IV,2018,November
+ warsaw, f43,3,IV,2018,November
+ warsaw, fx1,6,IV,2018,November
+ warsaw, fx3,2,IV,2018,November
+ warsaw, ir1,10,IV,2018,November
+ warsaw, ir2,4,IV,2018,November
+ warsaw, ir5,43,IV,2018,November
+ warsaw, sr1,1,IV,2018,November
+ yaounde, cr1,16,IV,2018,November
+ yaounde, cr2,1,IV,2018,November
+ yaounde, dv1,51,IV,2018,November
+ yaounde, dv2,10,IV,2018,November
+ yaounde, dv3,19,IV,2018,November
+ yaounde, f11,2,IV,2018,November
+ yaounde, f12,1,IV,2018,November
+ yaounde, f21,12,IV,2018,November
+ yaounde, f22,3,IV,2018,November
+ yaounde, f23,5,IV,2018,November
+ yaounde, f41,1,IV,2018,November
+ yaounde, f43,1,IV,2018,November
+ yaounde, fx1,7,IV,2018,November
+ yaounde, fx2,11,IV,2018,November
+ yaounde, fx3,14,IV,2018,November
+ yaounde, ir1,2,IV,2018,November
+ yaounde, ir2,13,IV,2018,November
+ yaounde, ir5,37,IV,2018,November
+ yaounde, sb1,1,IV,2018,November
+ yerevan, cr1,8,IV,2018,November
+ yerevan, dv1,30,IV,2018,November
+ yerevan, dv2,21,IV,2018,November
+ yerevan, dv3,26,IV,2018,November
+ yerevan, e31,1,IV,2018,November
+ yerevan, e34,1,IV,2018,November
+ yerevan, e35,2,IV,2018,November
+ yerevan, f11,1,IV,2018,November
+ yerevan, f21,2,IV,2018,November
+ yerevan, f31,2,IV,2018,November
+ yerevan, f32,2,IV,2018,November
+ yerevan, f33,4,IV,2018,November
+ yerevan, fx1,5,IV,2018,November
+ yerevan, fx2,2,IV,2018,November
+ yerevan, ir1,3,IV,2018,November
+ yerevan, ir2,1,IV,2018,November
+ yerevan, ir5,24,IV,2018,November
+ yerevan, sb1,1,IV,2018,November
+ zagreb, dv1,1,IV,2018,November
+ zagreb, ir1,1,IV,2018,November
+ zagreb, ir5,3,IV,2018,November

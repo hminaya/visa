@@ -57,6 +57,54 @@ def file_remove_ln(filename, list_strings):
     fin.write(data)
     fin.close()
 
+def file_add_commas(filename, valid_visa_types):
+    fin = open(filename, "rt")
+    data = fin.read()
+    
+    #New Line
+    data_new = ''
+
+    #Columns
+    quantity = ''
+    visa_class = ''
+    post = ''
+
+    #Split file into lines
+    for ln in data.splitlines():
+
+        #Split into columns
+        ln_new = ln.split(" ")
+        
+        for w in ln_new:
+
+            if w in valid_visa_types:
+
+                quantity = ''
+                visa_class = ''
+                post = ''
+
+                loc_class = ln_new.index(w)
+                loc_end = len(ln_new)
+
+                visa_class = w
+
+                # Everything to the right is the Quantity
+                for x in range(loc_class+1, loc_end):
+                    quantity = f"{quantity}" + f"{ln_new[x]}"
+
+                # Everything to the left is the Post
+                for x in range(0, loc_class):
+                    post = f"{post} " + f"{ln_new[x]}"
+
+        ln_new = f"{post}, {visa_class}, {quantity}\n"
+        data_new = f"{data_new}" + ln_new
+ 
+    fin.close()
+
+    fin = open(filename, "wt")
+    fin.write(data_new)
+    fin.close()
+
 def file_remove_empty_lines(fl):
     fh = open(fl, "r")
     lines = fh.readlines()
