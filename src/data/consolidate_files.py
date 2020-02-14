@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 import os
+import sys
+sys.path.append('../')
 import pandas as pd
+import catalogs
 
 #Global Scope
 
@@ -60,11 +63,133 @@ def generate_catalog(filename, list):
 
     fin.close()
 
-def consolidate_iv_by_post():
-    print(f"📈 IV - by Post\n")
+def consolidate_niv_by_post():
+    print(f"📈 NIV - by Post")
 
     frames = []
 
+    #Join files
+    for l in niv_by_post:
+
+        month = l.split(' ')[0]
+        year = l.split(' ')[1]
+
+        fl = f"{processed_directory}/{l}"
+
+        iv = pd.read_csv(
+            fl,
+            delimiter=',', 
+            header=None,
+            names=['Post', 'VisaClass', 'Quantity']
+            )
+
+        iv['VisaType'] = 'NIV'
+        iv['Year'] = year
+        iv['Month'] = month
+
+        frames.append(iv)
+
+    res = pd.concat(frames, ignore_index=True)
+
+    #Lower Visa Class
+    res.VisaClass = res.VisaClass.str.lower().str.strip()
+
+    niv_cat = catalogs.niv_class_catalog()
+
+    #Add Category Columns
+    res = pd.merge(res, niv_cat, on='VisaClass', how='left')
+
+    #Export
+    res.to_csv(f"{consolidated_directory}/niv_by_post.csv", sep="|", index=False)
+
+    #print(res)
+
+def consolidate_niv_by_nat():
+    print(f"📈 IV - by Nat")
+    frames = []
+
+    #Join files
+    for l in niv_by_nat:
+
+        month = l.split(' ')[0]
+        year = l.split(' ')[1]
+
+        fl = f"{processed_directory}/{l}"
+
+        iv = pd.read_csv(
+            fl,
+            delimiter=',', 
+            header=None,
+            names=['Post', 'VisaClass', 'Quantity']
+            )
+
+        iv['VisaType'] = 'NIV'
+        iv['Year'] = year
+        iv['Month'] = month
+
+        frames.append(iv)
+
+    res = pd.concat(frames, ignore_index=True)
+
+    #Lower Visa Class
+    res.VisaClass = res.VisaClass.str.lower().str.strip()
+
+    niv_cat = catalogs.niv_class_catalog()
+
+    #Add Category Columns
+    res = pd.merge(res, niv_cat, on='VisaClass', how='left')
+
+    #Export
+    res.to_csv(f"{consolidated_directory}/niv_by_nat.csv", sep="|", index=False)
+
+    #print(res)
+
+def consolidate_iv_by_fsc():
+    print(f"📈 IV - by FSC")
+    frames = []
+
+    #Join files
+    for l in iv_by_fsc:
+
+        month = l.split(' ')[0]
+        year = l.split(' ')[1]
+
+        fl = f"{processed_directory}/{l}"
+
+        iv = pd.read_csv(
+            fl,
+            delimiter=',', 
+            header=None,
+            names=['Post', 'VisaClass', 'Quantity']
+            )
+
+        iv['VisaType'] = 'IV'
+        iv['Year'] = year
+        iv['Month'] = month
+
+        frames.append(iv)
+
+    res = pd.concat(frames, ignore_index=True)
+
+    #Lower Visa Class
+    res.VisaClass = res.VisaClass.str.lower().str.strip()
+
+    iv_cat = catalogs.iv_class_catalog()
+
+    #Add Category Columns
+    res = pd.merge(res, iv_cat, on='VisaClass', how='left')
+
+    #Export
+    res.to_csv(f"{consolidated_directory}/iv_by_fsc.csv", sep="|", index=False)
+
+    #print(res)
+
+def consolidate_iv_by_post():
+    print(f"📈 IV - by Post")
+
+    frames = []
+
+    #Join files
     for l in iv_by_post:
 
         month = l.split(' ')[0]
@@ -86,24 +211,32 @@ def consolidate_iv_by_post():
         frames.append(iv)
 
     res = pd.concat(frames, ignore_index=True)
-    res.to_csv(f"{consolidated_directory}/iv_by_post.csv", index=False)
 
-    print(res)
+    #Lower Visa Class
+    res.VisaClass = res.VisaClass.str.lower().str.strip()
 
-    #iterate files
-    #base
-    #generate dataframe
-    #add
-    #export
+    iv_cat = catalogs.iv_class_catalog()
 
+    #Add Category Columns
+    res = pd.merge(res, iv_cat, on='VisaClass', how='left')
+
+    #Export
+    res.to_csv(f"{consolidated_directory}/iv_by_post.csv", sep="|", index=False)
+
+    #print(res)
 
 def consolidate_datasets():
     print(f"📊 Consolidate Datasets\n")
 
     consolidate_iv_by_post()
+    consolidate_iv_by_fsc()
+    consolidate_niv_by_post()
+    consolidate_niv_by_nat()
+
+    print(f"\n")
 
 def print_summary():
-    print(f"📋 File Catalog ")
+    print(f"📋 File Summary ")
     print(f"\t 📂 IV - by FSC {len(iv_by_fsc)}")
     print(f"\t 📂 IV - by Post {len(iv_by_post)}")
     print(f"\t 📂 NIV - by Nationality {len(niv_by_nat)}")
