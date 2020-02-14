@@ -13,33 +13,33 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  abidjan, sb1,1,IV,2018,November
  abidjan, se1,1,IV,2018,November
  abidjan, se2,1,IV,2018,November
- dhabi abu, cr1,9,IV,2018,November
- dhabi abu, cr2,1,IV,2018,November
- dhabi abu, dv1,5,IV,2018,November
- dhabi abu, dv2,2,IV,2018,November
- dhabi abu, dv3,2,IV,2018,November
- dhabi abu, e22,1,IV,2018,November
- dhabi abu, e23,2,IV,2018,November
- dhabi abu, e31,29,IV,2018,November
- dhabi abu, e34,22,IV,2018,November
- dhabi abu, e35,18,IV,2018,November
- dhabi abu, f11,4,IV,2018,November
- dhabi abu, f12,1,IV,2018,November
- dhabi abu, f21,1,IV,2018,November
- dhabi abu, f24,2,IV,2018,November
- dhabi abu, f31,7,IV,2018,November
- dhabi abu, f32,7,IV,2018,November
- dhabi abu, f33,10,IV,2018,November
- dhabi abu, f41,7,IV,2018,November
- dhabi abu, f42,4,IV,2018,November
- dhabi abu, f43,9,IV,2018,November
- dhabi abu, fx1,4,IV,2018,November
- dhabi abu, fx2,1,IV,2018,November
- dhabi abu, fx3,1,IV,2018,November
- dhabi abu, ir1,9,IV,2018,November
- dhabi abu, ir2,14,IV,2018,November
- dhabi abu, ir5,6,IV,2018,November
- dhabi abu, sq2,1,IV,2018,November
+ abu dhabi, cr1,9,IV,2018,November
+ abu dhabi, cr2,1,IV,2018,November
+ abu dhabi, dv1,5,IV,2018,November
+ abu dhabi, dv2,2,IV,2018,November
+ abu dhabi, dv3,2,IV,2018,November
+ abu dhabi, e22,1,IV,2018,November
+ abu dhabi, e23,2,IV,2018,November
+ abu dhabi, e31,29,IV,2018,November
+ abu dhabi, e34,22,IV,2018,November
+ abu dhabi, e35,18,IV,2018,November
+ abu dhabi, f11,4,IV,2018,November
+ abu dhabi, f12,1,IV,2018,November
+ abu dhabi, f21,1,IV,2018,November
+ abu dhabi, f24,2,IV,2018,November
+ abu dhabi, f31,7,IV,2018,November
+ abu dhabi, f32,7,IV,2018,November
+ abu dhabi, f33,10,IV,2018,November
+ abu dhabi, f41,7,IV,2018,November
+ abu dhabi, f42,4,IV,2018,November
+ abu dhabi, f43,9,IV,2018,November
+ abu dhabi, fx1,4,IV,2018,November
+ abu dhabi, fx2,1,IV,2018,November
+ abu dhabi, fx3,1,IV,2018,November
+ abu dhabi, ir1,9,IV,2018,November
+ abu dhabi, ir2,14,IV,2018,November
+ abu dhabi, ir5,6,IV,2018,November
+ abu dhabi, sq2,1,IV,2018,November
  accra, cr1,49,IV,2018,November
  accra, cr2,3,IV,2018,November
  accra, dv1,23,IV,2018,November
@@ -72,63 +72,63 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  accra, iw1,2,IV,2018,November
  accra, se1,1,IV,2018,November
  accra, se2,1,IV,2018,November
- ababa addis, cr1,57,IV,2018,November
- ababa addis, cr2,1,IV,2018,November
- ababa addis, dv1,155,IV,2018,November
- ababa addis, dv2,21,IV,2018,November
- ababa addis, dv3,38,IV,2018,November
- ababa addis, e21,1,IV,2018,November
- ababa addis, e22,1,IV,2018,November
- ababa addis, e23,3,IV,2018,November
- ababa addis, f11,7,IV,2018,November
- ababa addis, f12,3,IV,2018,November
- ababa addis, f21,27,IV,2018,November
- ababa addis, f22,31,IV,2018,November
- ababa addis, f24,5,IV,2018,November
- ababa addis, f25,2,IV,2018,November
- ababa addis, f31,1,IV,2018,November
- ababa addis, f32,2,IV,2018,November
- ababa addis, f33,6,IV,2018,November
- ababa addis, f41,8,IV,2018,November
- ababa addis, f42,3,IV,2018,November
- ababa addis, f43,11,IV,2018,November
- ababa addis, fx1,22,IV,2018,November
- ababa addis, fx2,39,IV,2018,November
- ababa addis, fx3,1,IV,2018,November
- ababa addis, ir1,42,IV,2018,November
- ababa addis, ir2,38,IV,2018,November
- ababa addis, ir5,60,IV,2018,November
- ababa addis, se1,1,IV,2018,November
- ababa addis, se2,2,IV,2018,November
- ababa addis, se3,9,IV,2018,November
- taipei ait, cr1,4,IV,2018,November
- taipei ait, dv1,3,IV,2018,November
- taipei ait, dv2,1,IV,2018,November
- taipei ait, dv3,2,IV,2018,November
- taipei ait, e21,5,IV,2018,November
- taipei ait, e22,5,IV,2018,November
- taipei ait, e23,3,IV,2018,November
- taipei ait, e32,2,IV,2018,November
- taipei ait, e34,1,IV,2018,November
- taipei ait, f11,1,IV,2018,November
- taipei ait, f21,1,IV,2018,November
- taipei ait, f24,1,IV,2018,November
- taipei ait, f31,6,IV,2018,November
- taipei ait, f32,5,IV,2018,November
- taipei ait, f33,6,IV,2018,November
- taipei ait, f41,25,IV,2018,November
- taipei ait, f42,15,IV,2018,November
- taipei ait, f43,16,IV,2018,November
- taipei ait, fx1,1,IV,2018,November
- taipei ait, fx2,2,IV,2018,November
- taipei ait, i51,4,IV,2018,November
- taipei ait, i52,4,IV,2018,November
- taipei ait, i53,7,IV,2018,November
- taipei ait, ir1,21,IV,2018,November
- taipei ait, ir2,7,IV,2018,November
- taipei ait, ir5,21,IV,2018,November
- taipei ait, t51,1,IV,2018,November
- taipei ait, t52,1,IV,2018,November
+ addis ababa, cr1,57,IV,2018,November
+ addis ababa, cr2,1,IV,2018,November
+ addis ababa, dv1,155,IV,2018,November
+ addis ababa, dv2,21,IV,2018,November
+ addis ababa, dv3,38,IV,2018,November
+ addis ababa, e21,1,IV,2018,November
+ addis ababa, e22,1,IV,2018,November
+ addis ababa, e23,3,IV,2018,November
+ addis ababa, f11,7,IV,2018,November
+ addis ababa, f12,3,IV,2018,November
+ addis ababa, f21,27,IV,2018,November
+ addis ababa, f22,31,IV,2018,November
+ addis ababa, f24,5,IV,2018,November
+ addis ababa, f25,2,IV,2018,November
+ addis ababa, f31,1,IV,2018,November
+ addis ababa, f32,2,IV,2018,November
+ addis ababa, f33,6,IV,2018,November
+ addis ababa, f41,8,IV,2018,November
+ addis ababa, f42,3,IV,2018,November
+ addis ababa, f43,11,IV,2018,November
+ addis ababa, fx1,22,IV,2018,November
+ addis ababa, fx2,39,IV,2018,November
+ addis ababa, fx3,1,IV,2018,November
+ addis ababa, ir1,42,IV,2018,November
+ addis ababa, ir2,38,IV,2018,November
+ addis ababa, ir5,60,IV,2018,November
+ addis ababa, se1,1,IV,2018,November
+ addis ababa, se2,2,IV,2018,November
+ addis ababa, se3,9,IV,2018,November
+ ait taipei, cr1,4,IV,2018,November
+ ait taipei, dv1,3,IV,2018,November
+ ait taipei, dv2,1,IV,2018,November
+ ait taipei, dv3,2,IV,2018,November
+ ait taipei, e21,5,IV,2018,November
+ ait taipei, e22,5,IV,2018,November
+ ait taipei, e23,3,IV,2018,November
+ ait taipei, e32,2,IV,2018,November
+ ait taipei, e34,1,IV,2018,November
+ ait taipei, f11,1,IV,2018,November
+ ait taipei, f21,1,IV,2018,November
+ ait taipei, f24,1,IV,2018,November
+ ait taipei, f31,6,IV,2018,November
+ ait taipei, f32,5,IV,2018,November
+ ait taipei, f33,6,IV,2018,November
+ ait taipei, f41,25,IV,2018,November
+ ait taipei, f42,15,IV,2018,November
+ ait taipei, f43,16,IV,2018,November
+ ait taipei, fx1,1,IV,2018,November
+ ait taipei, fx2,2,IV,2018,November
+ ait taipei, i51,4,IV,2018,November
+ ait taipei, i52,4,IV,2018,November
+ ait taipei, i53,7,IV,2018,November
+ ait taipei, ir1,21,IV,2018,November
+ ait taipei, ir2,7,IV,2018,November
+ ait taipei, ir5,21,IV,2018,November
+ ait taipei, t51,1,IV,2018,November
+ ait taipei, t52,1,IV,2018,November
  algiers, cr1,22,IV,2018,November
  algiers, dv1,63,IV,2018,November
  algiers, dv2,30,IV,2018,November
@@ -491,16 +491,16 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  budapest, ih3,3,IV,2018,November
  budapest, ir5,5,IV,2018,November
  budapest, sd1,1,IV,2018,November
- aires buenos, cr1,3,IV,2018,November
- aires buenos, f11,3,IV,2018,November
- aires buenos, f41,1,IV,2018,November
- aires buenos, f42,1,IV,2018,November
- aires buenos, i51,1,IV,2018,November
- aires buenos, i52,1,IV,2018,November
- aires buenos, i53,3,IV,2018,November
- aires buenos, ir1,8,IV,2018,November
- aires buenos, ir2,4,IV,2018,November
- aires buenos, ir5,10,IV,2018,November
+ buenos aires, cr1,3,IV,2018,November
+ buenos aires, f11,3,IV,2018,November
+ buenos aires, f41,1,IV,2018,November
+ buenos aires, f42,1,IV,2018,November
+ buenos aires, i51,1,IV,2018,November
+ buenos aires, i52,1,IV,2018,November
+ buenos aires, i53,3,IV,2018,November
+ buenos aires, ir1,8,IV,2018,November
+ buenos aires, ir2,4,IV,2018,November
+ buenos aires, ir5,10,IV,2018,November
  cairo, cr1,12,IV,2018,November
  cairo, dv1,75,IV,2018,November
  cairo, dv2,55,IV,2018,November
@@ -588,39 +588,39 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  chisinau, f22,2,IV,2018,November
  chisinau, ir2,1,IV,2018,November
  chisinau, ir5,9,IV,2018,November
- juarez ciudad, bx1,1,IV,2018,November
- juarez ciudad, cr1,75,IV,2018,November
- juarez ciudad, cr2,13,IV,2018,November
- juarez ciudad, e21,2,IV,2018,November
- juarez ciudad, e22,2,IV,2018,November
- juarez ciudad, e23,1,IV,2018,November
- juarez ciudad, e31,2,IV,2018,November
- juarez ciudad, e34,4,IV,2018,November
- juarez ciudad, e35,8,IV,2018,November
- juarez ciudad, ew3,1,IV,2018,November
- juarez ciudad, ew4,1,IV,2018,November
- juarez ciudad, f11,26,IV,2018,November
- juarez ciudad, f12,30,IV,2018,November
- juarez ciudad, f24,21,IV,2018,November
- juarez ciudad, f25,24,IV,2018,November
- juarez ciudad, f31,15,IV,2018,November
- juarez ciudad, f32,15,IV,2018,November
- juarez ciudad, f33,27,IV,2018,November
- juarez ciudad, f41,116,IV,2018,November
- juarez ciudad, f42,63,IV,2018,November
- juarez ciudad, f43,91,IV,2018,November
- juarez ciudad, fx1,511,IV,2018,November
- juarez ciudad, fx2,772,IV,2018,November
- juarez ciudad, fx3,7,IV,2018,November
- juarez ciudad, ib1,1,IV,2018,November
- juarez ciudad, ih3,5,IV,2018,November
- juarez ciudad, ir1,1050,IV,2018,November
- juarez ciudad, ir2,263,IV,2018,November
- juarez ciudad, ir5,354,IV,2018,November
- juarez ciudad, iw1,3,IV,2018,November
- juarez ciudad, iw2,2,IV,2018,November
- juarez ciudad, sb1,1,IV,2018,November
- juarez ciudad, su3,1,IV,2018,November
+ ciudad juarez, bx1,1,IV,2018,November
+ ciudad juarez, cr1,75,IV,2018,November
+ ciudad juarez, cr2,13,IV,2018,November
+ ciudad juarez, e21,2,IV,2018,November
+ ciudad juarez, e22,2,IV,2018,November
+ ciudad juarez, e23,1,IV,2018,November
+ ciudad juarez, e31,2,IV,2018,November
+ ciudad juarez, e34,4,IV,2018,November
+ ciudad juarez, e35,8,IV,2018,November
+ ciudad juarez, ew3,1,IV,2018,November
+ ciudad juarez, ew4,1,IV,2018,November
+ ciudad juarez, f11,26,IV,2018,November
+ ciudad juarez, f12,30,IV,2018,November
+ ciudad juarez, f24,21,IV,2018,November
+ ciudad juarez, f25,24,IV,2018,November
+ ciudad juarez, f31,15,IV,2018,November
+ ciudad juarez, f32,15,IV,2018,November
+ ciudad juarez, f33,27,IV,2018,November
+ ciudad juarez, f41,116,IV,2018,November
+ ciudad juarez, f42,63,IV,2018,November
+ ciudad juarez, f43,91,IV,2018,November
+ ciudad juarez, fx1,511,IV,2018,November
+ ciudad juarez, fx2,772,IV,2018,November
+ ciudad juarez, fx3,7,IV,2018,November
+ ciudad juarez, ib1,1,IV,2018,November
+ ciudad juarez, ih3,5,IV,2018,November
+ ciudad juarez, ir1,1050,IV,2018,November
+ ciudad juarez, ir2,263,IV,2018,November
+ ciudad juarez, ir5,354,IV,2018,November
+ ciudad juarez, iw1,3,IV,2018,November
+ ciudad juarez, iw2,2,IV,2018,November
+ ciudad juarez, sb1,1,IV,2018,November
+ ciudad juarez, su3,1,IV,2018,November
  colombo, cr1,4,IV,2018,November
  colombo, cr2,1,IV,2018,November
  colombo, dv1,6,IV,2018,November
@@ -664,17 +664,17 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  dakar, ir3,2,IV,2018,November
  dakar, ir5,38,IV,2018,November
  dakar, se3,3,IV,2018,November
- salaam es dar, cr1,1,IV,2018,November
- salaam es dar, dv1,1,IV,2018,November
- salaam es dar, e21,1,IV,2018,November
- salaam es dar, e23,1,IV,2018,November
- salaam es dar, f22,1,IV,2018,November
- salaam es dar, f41,1,IV,2018,November
- salaam es dar, f43,1,IV,2018,November
- salaam es dar, fx1,1,IV,2018,November
- salaam es dar, ir1,1,IV,2018,November
- salaam es dar, ir2,3,IV,2018,November
- salaam es dar, ir5,2,IV,2018,November
+ dar es salaam, cr1,1,IV,2018,November
+ dar es salaam, dv1,1,IV,2018,November
+ dar es salaam, e21,1,IV,2018,November
+ dar es salaam, e23,1,IV,2018,November
+ dar es salaam, f22,1,IV,2018,November
+ dar es salaam, f41,1,IV,2018,November
+ dar es salaam, f43,1,IV,2018,November
+ dar es salaam, fx1,1,IV,2018,November
+ dar es salaam, ir1,1,IV,2018,November
+ dar es salaam, ir2,3,IV,2018,November
+ dar es salaam, ir5,2,IV,2018,November
  dhaka, cr1,87,IV,2018,November
  dhaka, cr2,2,IV,2018,November
  dhaka, e21,1,IV,2018,November
@@ -919,65 +919,65 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  helsinki, ir1,1,IV,2018,November
  helsinki, ir2,1,IV,2018,November
  helsinki, sb1,1,IV,2018,November
- city minh chi ho, am1,3,IV,2018,November
- city minh chi ho, am2,7,IV,2018,November
- city minh chi ho, c51,1,IV,2018,November
- city minh chi ho, cr1,122,IV,2018,November
- city minh chi ho, cr2,23,IV,2018,November
- city minh chi ho, e31,1,IV,2018,November
- city minh chi ho, e34,1,IV,2018,November
- city minh chi ho, e35,1,IV,2018,November
- city minh chi ho, f11,56,IV,2018,November
- city minh chi ho, f12,54,IV,2018,November
- city minh chi ho, f21,55,IV,2018,November
- city minh chi ho, f22,16,IV,2018,November
- city minh chi ho, f23,32,IV,2018,November
- city minh chi ho, f24,30,IV,2018,November
- city minh chi ho, f25,8,IV,2018,November
- city minh chi ho, f31,154,IV,2018,November
- city minh chi ho, f32,154,IV,2018,November
- city minh chi ho, f33,226,IV,2018,November
- city minh chi ho, f41,352,IV,2018,November
- city minh chi ho, f42,261,IV,2018,November
- city minh chi ho, f43,469,IV,2018,November
- city minh chi ho, fx1,98,IV,2018,November
- city minh chi ho, fx2,44,IV,2018,November
- city minh chi ho, fx3,64,IV,2018,November
- city minh chi ho, i51,8,IV,2018,November
- city minh chi ho, i52,9,IV,2018,November
- city minh chi ho, i53,27,IV,2018,November
- city minh chi ho, ir1,49,IV,2018,November
- city minh chi ho, ir2,47,IV,2018,November
- city minh chi ho, ir5,261,IV,2018,November
- city minh chi ho, sb1,2,IV,2018,November
- city minh chi ho, t51,1,IV,2018,November
- kong hong, cr1,7,IV,2018,November
- kong hong, dv1,2,IV,2018,November
- kong hong, dv2,1,IV,2018,November
- kong hong, e21,2,IV,2018,November
- kong hong, e22,1,IV,2018,November
- kong hong, e23,1,IV,2018,November
- kong hong, ew3,1,IV,2018,November
- kong hong, ew4,1,IV,2018,November
- kong hong, ew5,2,IV,2018,November
- kong hong, f21,2,IV,2018,November
- kong hong, f23,1,IV,2018,November
- kong hong, f24,1,IV,2018,November
- kong hong, f31,4,IV,2018,November
- kong hong, f32,4,IV,2018,November
- kong hong, f33,6,IV,2018,November
- kong hong, f41,14,IV,2018,November
- kong hong, f42,12,IV,2018,November
- kong hong, f43,10,IV,2018,November
- kong hong, fx1,4,IV,2018,November
- kong hong, fx3,1,IV,2018,November
- kong hong, i51,5,IV,2018,November
- kong hong, i52,2,IV,2018,November
- kong hong, i53,5,IV,2018,November
- kong hong, ib3,2,IV,2018,November
- kong hong, ir1,7,IV,2018,November
- kong hong, ir2,1,IV,2018,November
- kong hong, ir5,21,IV,2018,November
+ ho chi minh city, am1,3,IV,2018,November
+ ho chi minh city, am2,7,IV,2018,November
+ ho chi minh city, c51,1,IV,2018,November
+ ho chi minh city, cr1,122,IV,2018,November
+ ho chi minh city, cr2,23,IV,2018,November
+ ho chi minh city, e31,1,IV,2018,November
+ ho chi minh city, e34,1,IV,2018,November
+ ho chi minh city, e35,1,IV,2018,November
+ ho chi minh city, f11,56,IV,2018,November
+ ho chi minh city, f12,54,IV,2018,November
+ ho chi minh city, f21,55,IV,2018,November
+ ho chi minh city, f22,16,IV,2018,November
+ ho chi minh city, f23,32,IV,2018,November
+ ho chi minh city, f24,30,IV,2018,November
+ ho chi minh city, f25,8,IV,2018,November
+ ho chi minh city, f31,154,IV,2018,November
+ ho chi minh city, f32,154,IV,2018,November
+ ho chi minh city, f33,226,IV,2018,November
+ ho chi minh city, f41,352,IV,2018,November
+ ho chi minh city, f42,261,IV,2018,November
+ ho chi minh city, f43,469,IV,2018,November
+ ho chi minh city, fx1,98,IV,2018,November
+ ho chi minh city, fx2,44,IV,2018,November
+ ho chi minh city, fx3,64,IV,2018,November
+ ho chi minh city, i51,8,IV,2018,November
+ ho chi minh city, i52,9,IV,2018,November
+ ho chi minh city, i53,27,IV,2018,November
+ ho chi minh city, ir1,49,IV,2018,November
+ ho chi minh city, ir2,47,IV,2018,November
+ ho chi minh city, ir5,261,IV,2018,November
+ ho chi minh city, sb1,2,IV,2018,November
+ ho chi minh city, t51,1,IV,2018,November
+ hong kong, cr1,7,IV,2018,November
+ hong kong, dv1,2,IV,2018,November
+ hong kong, dv2,1,IV,2018,November
+ hong kong, e21,2,IV,2018,November
+ hong kong, e22,1,IV,2018,November
+ hong kong, e23,1,IV,2018,November
+ hong kong, ew3,1,IV,2018,November
+ hong kong, ew4,1,IV,2018,November
+ hong kong, ew5,2,IV,2018,November
+ hong kong, f21,2,IV,2018,November
+ hong kong, f23,1,IV,2018,November
+ hong kong, f24,1,IV,2018,November
+ hong kong, f31,4,IV,2018,November
+ hong kong, f32,4,IV,2018,November
+ hong kong, f33,6,IV,2018,November
+ hong kong, f41,14,IV,2018,November
+ hong kong, f42,12,IV,2018,November
+ hong kong, f43,10,IV,2018,November
+ hong kong, fx1,4,IV,2018,November
+ hong kong, fx3,1,IV,2018,November
+ hong kong, i51,5,IV,2018,November
+ hong kong, i52,2,IV,2018,November
+ hong kong, i53,5,IV,2018,November
+ hong kong, ib3,2,IV,2018,November
+ hong kong, ir1,7,IV,2018,November
+ hong kong, ir2,1,IV,2018,November
+ hong kong, ir5,21,IV,2018,November
  islamabad, cr1,76,IV,2018,November
  islamabad, cr2,2,IV,2018,November
  islamabad, e15,2,IV,2018,November
@@ -1173,23 +1173,23 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  kinshasa, ir1,2,IV,2018,November
  kinshasa, ir2,3,IV,2018,November
  kinshasa, ir5,8,IV,2018,November
- lumpur kuala, cr1,3,IV,2018,November
- lumpur kuala, dv1,1,IV,2018,November
- lumpur kuala, e31,1,IV,2018,November
- lumpur kuala, f11,3,IV,2018,November
- lumpur kuala, f12,1,IV,2018,November
- lumpur kuala, f21,3,IV,2018,November
- lumpur kuala, f22,1,IV,2018,November
- lumpur kuala, f23,1,IV,2018,November
- lumpur kuala, f41,2,IV,2018,November
- lumpur kuala, fx1,2,IV,2018,November
- lumpur kuala, fx2,2,IV,2018,November
- lumpur kuala, i51,1,IV,2018,November
- lumpur kuala, i53,3,IV,2018,November
- lumpur kuala, ir1,11,IV,2018,November
- lumpur kuala, ir2,40,IV,2018,November
- lumpur kuala, ir5,9,IV,2018,November
- lumpur kuala, iw1,1,IV,2018,November
+ kuala lumpur, cr1,3,IV,2018,November
+ kuala lumpur, dv1,1,IV,2018,November
+ kuala lumpur, e31,1,IV,2018,November
+ kuala lumpur, f11,3,IV,2018,November
+ kuala lumpur, f12,1,IV,2018,November
+ kuala lumpur, f21,3,IV,2018,November
+ kuala lumpur, f22,1,IV,2018,November
+ kuala lumpur, f23,1,IV,2018,November
+ kuala lumpur, f41,2,IV,2018,November
+ kuala lumpur, fx1,2,IV,2018,November
+ kuala lumpur, fx2,2,IV,2018,November
+ kuala lumpur, i51,1,IV,2018,November
+ kuala lumpur, i53,3,IV,2018,November
+ kuala lumpur, ir1,11,IV,2018,November
+ kuala lumpur, ir2,40,IV,2018,November
+ kuala lumpur, ir5,9,IV,2018,November
+ kuala lumpur, iw1,1,IV,2018,November
  kuwait, cr1,2,IV,2018,November
  kuwait, e21,1,IV,2018,November
  kuwait, e22,1,IV,2018,November
@@ -1247,22 +1247,22 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  kyiv, sr1,1,IV,2018,November
  kyiv, sr2,1,IV,2018,November
  kyiv, sr3,1,IV,2018,November
- paz la, cr1,4,IV,2018,November
- paz la, cr2,3,IV,2018,November
- paz la, dv1,1,IV,2018,November
- paz la, e23,2,IV,2018,November
- paz la, e31,1,IV,2018,November
- paz la, ew3,1,IV,2018,November
- paz la, f11,7,IV,2018,November
- paz la, f12,8,IV,2018,November
- paz la, f24,1,IV,2018,November
- paz la, f41,4,IV,2018,November
- paz la, f42,1,IV,2018,November
- paz la, f43,5,IV,2018,November
- paz la, fx2,1,IV,2018,November
- paz la, ir1,4,IV,2018,November
- paz la, ir2,6,IV,2018,November
- paz la, ir5,15,IV,2018,November
+ la paz, cr1,4,IV,2018,November
+ la paz, cr2,3,IV,2018,November
+ la paz, dv1,1,IV,2018,November
+ la paz, e23,2,IV,2018,November
+ la paz, e31,1,IV,2018,November
+ la paz, ew3,1,IV,2018,November
+ la paz, f11,7,IV,2018,November
+ la paz, f12,8,IV,2018,November
+ la paz, f24,1,IV,2018,November
+ la paz, f41,4,IV,2018,November
+ la paz, f42,1,IV,2018,November
+ la paz, f43,5,IV,2018,November
+ la paz, fx2,1,IV,2018,November
+ la paz, ir1,4,IV,2018,November
+ la paz, ir2,6,IV,2018,November
+ la paz, ir5,15,IV,2018,November
  lagos, cr1,50,IV,2018,November
  lagos, cr2,2,IV,2018,November
  lagos, e31,24,IV,2018,November
@@ -1672,30 +1672,30 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  nassau, fx3,1,IV,2018,November
  nassau, ir1,4,IV,2018,November
  nassau, ir5,3,IV,2018,November
- delhi new, cr1,1,IV,2018,November
- delhi new, e31,1,IV,2018,November
- delhi new, e34,1,IV,2018,November
- delhi new, e35,2,IV,2018,November
- delhi new, f11,1,IV,2018,November
- delhi new, f24,1,IV,2018,November
- delhi new, f31,5,IV,2018,November
- delhi new, f32,6,IV,2018,November
- delhi new, f33,6,IV,2018,November
- delhi new, f41,39,IV,2018,November
- delhi new, f42,38,IV,2018,November
- delhi new, f43,50,IV,2018,November
- delhi new, fx1,7,IV,2018,November
- delhi new, fx2,3,IV,2018,November
- delhi new, fx3,2,IV,2018,November
- delhi new, ih3,16,IV,2018,November
- delhi new, ir1,7,IV,2018,November
- delhi new, ir2,4,IV,2018,November
- delhi new, ir5,3,IV,2018,November
- delhi new, sb1,12,IV,2018,November
- delhi new, sd2,1,IV,2018,November
- delhi new, sd3,2,IV,2018,November
- delhi new, se1,1,IV,2018,November
- delhi new, sr3,3,IV,2018,November
+ new delhi, cr1,1,IV,2018,November
+ new delhi, e31,1,IV,2018,November
+ new delhi, e34,1,IV,2018,November
+ new delhi, e35,2,IV,2018,November
+ new delhi, f11,1,IV,2018,November
+ new delhi, f24,1,IV,2018,November
+ new delhi, f31,5,IV,2018,November
+ new delhi, f32,6,IV,2018,November
+ new delhi, f33,6,IV,2018,November
+ new delhi, f41,39,IV,2018,November
+ new delhi, f42,38,IV,2018,November
+ new delhi, f43,50,IV,2018,November
+ new delhi, fx1,7,IV,2018,November
+ new delhi, fx2,3,IV,2018,November
+ new delhi, fx3,2,IV,2018,November
+ new delhi, ih3,16,IV,2018,November
+ new delhi, ir1,7,IV,2018,November
+ new delhi, ir2,4,IV,2018,November
+ new delhi, ir5,3,IV,2018,November
+ new delhi, sb1,12,IV,2018,November
+ new delhi, sd2,1,IV,2018,November
+ new delhi, sd3,2,IV,2018,November
+ new delhi, se1,1,IV,2018,November
+ new delhi, sr3,3,IV,2018,November
  niamey, cr1,3,IV,2018,November
  niamey, ir2,2,IV,2018,November
  niamey, ir5,2,IV,2018,November
@@ -1751,46 +1751,46 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  paris, ir2,2,IV,2018,November
  paris, ir5,8,IV,2018,November
  paris, sb1,1,IV,2018,November
- penh phnom, cr1,21,IV,2018,November
- penh phnom, cr2,2,IV,2018,November
- penh phnom, f21,3,IV,2018,November
- penh phnom, f22,1,IV,2018,November
- penh phnom, f23,1,IV,2018,November
- penh phnom, f24,4,IV,2018,November
- penh phnom, f25,1,IV,2018,November
- penh phnom, f31,1,IV,2018,November
- penh phnom, f32,1,IV,2018,November
- penh phnom, fx1,2,IV,2018,November
- penh phnom, fx2,3,IV,2018,November
- penh phnom, fx3,1,IV,2018,November
- penh phnom, ir1,14,IV,2018,November
- penh phnom, ir2,13,IV,2018,November
- penh phnom, ir5,53,IV,2018,November
- penh phnom, sd1,2,IV,2018,November
- penh phnom, sr1,1,IV,2018,November
- spain of port, cr1,3,IV,2018,November
- spain of port, e31,5,IV,2018,November
- spain of port, e34,3,IV,2018,November
- spain of port, e35,5,IV,2018,November
- spain of port, f11,3,IV,2018,November
- spain of port, f12,1,IV,2018,November
- spain of port, f22,2,IV,2018,November
- spain of port, f24,3,IV,2018,November
- spain of port, f25,1,IV,2018,November
- spain of port, f31,1,IV,2018,November
- spain of port, f32,1,IV,2018,November
- spain of port, f33,1,IV,2018,November
- spain of port, f41,3,IV,2018,November
- spain of port, f42,2,IV,2018,November
- spain of port, f43,3,IV,2018,November
- spain of port, fx1,1,IV,2018,November
- spain of port, fx3,2,IV,2018,November
- spain of port, ir1,9,IV,2018,November
- spain of port, ir2,12,IV,2018,November
- spain of port, ir3,2,IV,2018,November
- spain of port, ir4,1,IV,2018,November
- spain of port, ir5,17,IV,2018,November
- spain of port, iw2,3,IV,2018,November
+ phnom penh, cr1,21,IV,2018,November
+ phnom penh, cr2,2,IV,2018,November
+ phnom penh, f21,3,IV,2018,November
+ phnom penh, f22,1,IV,2018,November
+ phnom penh, f23,1,IV,2018,November
+ phnom penh, f24,4,IV,2018,November
+ phnom penh, f25,1,IV,2018,November
+ phnom penh, f31,1,IV,2018,November
+ phnom penh, f32,1,IV,2018,November
+ phnom penh, fx1,2,IV,2018,November
+ phnom penh, fx2,3,IV,2018,November
+ phnom penh, fx3,1,IV,2018,November
+ phnom penh, ir1,14,IV,2018,November
+ phnom penh, ir2,13,IV,2018,November
+ phnom penh, ir5,53,IV,2018,November
+ phnom penh, sd1,2,IV,2018,November
+ phnom penh, sr1,1,IV,2018,November
+ port of spain, cr1,3,IV,2018,November
+ port of spain, e31,5,IV,2018,November
+ port of spain, e34,3,IV,2018,November
+ port of spain, e35,5,IV,2018,November
+ port of spain, f11,3,IV,2018,November
+ port of spain, f12,1,IV,2018,November
+ port of spain, f22,2,IV,2018,November
+ port of spain, f24,3,IV,2018,November
+ port of spain, f25,1,IV,2018,November
+ port of spain, f31,1,IV,2018,November
+ port of spain, f32,1,IV,2018,November
+ port of spain, f33,1,IV,2018,November
+ port of spain, f41,3,IV,2018,November
+ port of spain, f42,2,IV,2018,November
+ port of spain, f43,3,IV,2018,November
+ port of spain, fx1,1,IV,2018,November
+ port of spain, fx3,2,IV,2018,November
+ port of spain, ir1,9,IV,2018,November
+ port of spain, ir2,12,IV,2018,November
+ port of spain, ir3,2,IV,2018,November
+ port of spain, ir4,1,IV,2018,November
+ port of spain, ir5,17,IV,2018,November
+ port of spain, iw2,3,IV,2018,November
  port-au-prince, cr1,44,IV,2018,November
  port-au-prince, cr2,20,IV,2018,November
  port-au-prince, f11,54,IV,2018,November
@@ -1873,37 +1873,37 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  riga, f41,1,IV,2018,November
  riga, ih3,4,IV,2018,November
  riga, ir5,7,IV,2018,November
- janeiro de rio, cr1,20,IV,2018,November
- janeiro de rio, cr2,6,IV,2018,November
- janeiro de rio, dv1,2,IV,2018,November
- janeiro de rio, e31,4,IV,2018,November
- janeiro de rio, e34,2,IV,2018,November
- janeiro de rio, e35,2,IV,2018,November
- janeiro de rio, f11,7,IV,2018,November
- janeiro de rio, f12,4,IV,2018,November
- janeiro de rio, f23,1,IV,2018,November
- janeiro de rio, f24,1,IV,2018,November
- janeiro de rio, f31,4,IV,2018,November
- janeiro de rio, f32,4,IV,2018,November
- janeiro de rio, f33,4,IV,2018,November
- janeiro de rio, f41,2,IV,2018,November
- janeiro de rio, f42,1,IV,2018,November
- janeiro de rio, f43,1,IV,2018,November
- janeiro de rio, fx1,9,IV,2018,November
- janeiro de rio, fx2,5,IV,2018,November
- janeiro de rio, fx3,5,IV,2018,November
- janeiro de rio, i51,1,IV,2018,November
- janeiro de rio, i52,1,IV,2018,November
- janeiro de rio, i53,2,IV,2018,November
- janeiro de rio, ih3,5,IV,2018,November
- janeiro de rio, ir1,63,IV,2018,November
- janeiro de rio, ir2,27,IV,2018,November
- janeiro de rio, ir5,58,IV,2018,November
- janeiro de rio, iw1,1,IV,2018,November
- janeiro de rio, sb1,1,IV,2018,November
- janeiro de rio, sd1,1,IV,2018,November
- janeiro de rio, sd2,1,IV,2018,November
- janeiro de rio, sd3,1,IV,2018,November
+ rio de janeiro, cr1,20,IV,2018,November
+ rio de janeiro, cr2,6,IV,2018,November
+ rio de janeiro, dv1,2,IV,2018,November
+ rio de janeiro, e31,4,IV,2018,November
+ rio de janeiro, e34,2,IV,2018,November
+ rio de janeiro, e35,2,IV,2018,November
+ rio de janeiro, f11,7,IV,2018,November
+ rio de janeiro, f12,4,IV,2018,November
+ rio de janeiro, f23,1,IV,2018,November
+ rio de janeiro, f24,1,IV,2018,November
+ rio de janeiro, f31,4,IV,2018,November
+ rio de janeiro, f32,4,IV,2018,November
+ rio de janeiro, f33,4,IV,2018,November
+ rio de janeiro, f41,2,IV,2018,November
+ rio de janeiro, f42,1,IV,2018,November
+ rio de janeiro, f43,1,IV,2018,November
+ rio de janeiro, fx1,9,IV,2018,November
+ rio de janeiro, fx2,5,IV,2018,November
+ rio de janeiro, fx3,5,IV,2018,November
+ rio de janeiro, i51,1,IV,2018,November
+ rio de janeiro, i52,1,IV,2018,November
+ rio de janeiro, i53,2,IV,2018,November
+ rio de janeiro, ih3,5,IV,2018,November
+ rio de janeiro, ir1,63,IV,2018,November
+ rio de janeiro, ir2,27,IV,2018,November
+ rio de janeiro, ir5,58,IV,2018,November
+ rio de janeiro, iw1,1,IV,2018,November
+ rio de janeiro, sb1,1,IV,2018,November
+ rio de janeiro, sd1,1,IV,2018,November
+ rio de janeiro, sd2,1,IV,2018,November
+ rio de janeiro, sd3,1,IV,2018,November
  riyadh, cr1,10,IV,2018,November
  riyadh, dv1,6,IV,2018,November
  riyadh, dv2,3,IV,2018,November
@@ -1926,55 +1926,55 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  riyadh, ir2,6,IV,2018,November
  riyadh, ir5,12,IV,2018,November
  riyadh, sb1,1,IV,2018,November
- jose san, cr1,10,IV,2018,November
- jose san, cr2,1,IV,2018,November
- jose san, dv1,1,IV,2018,November
- jose san, dv2,1,IV,2018,November
- jose san, e31,1,IV,2018,November
- jose san, e34,1,IV,2018,November
- jose san, e35,1,IV,2018,November
- jose san, f11,3,IV,2018,November
- jose san, f21,1,IV,2018,November
- jose san, f22,2,IV,2018,November
- jose san, f31,1,IV,2018,November
- jose san, f32,1,IV,2018,November
- jose san, f33,2,IV,2018,November
- jose san, f41,4,IV,2018,November
- jose san, f42,2,IV,2018,November
- jose san, f43,1,IV,2018,November
- jose san, fx2,2,IV,2018,November
- jose san, fx3,1,IV,2018,November
- jose san, ib3,1,IV,2018,November
- jose san, ih3,2,IV,2018,November
- jose san, ir1,19,IV,2018,November
- jose san, ir2,13,IV,2018,November
- jose san, ir5,4,IV,2018,November
- salvador san, cr1,68,IV,2018,November
- salvador san, cr2,22,IV,2018,November
- salvador san, e31,1,IV,2018,November
- salvador san, ew3,2,IV,2018,November
- salvador san, ew5,1,IV,2018,November
- salvador san, f11,47,IV,2018,November
- salvador san, f12,45,IV,2018,November
- salvador san, f21,27,IV,2018,November
- salvador san, f22,11,IV,2018,November
- salvador san, f23,11,IV,2018,November
- salvador san, f24,22,IV,2018,November
- salvador san, f25,10,IV,2018,November
- salvador san, f31,15,IV,2018,November
- salvador san, f32,13,IV,2018,November
- salvador san, f33,27,IV,2018,November
- salvador san, f41,30,IV,2018,November
- salvador san, f42,12,IV,2018,November
- salvador san, f43,32,IV,2018,November
- salvador san, fx1,74,IV,2018,November
- salvador san, fx2,48,IV,2018,November
- salvador san, fx3,57,IV,2018,November
- salvador san, ib3,1,IV,2018,November
- salvador san, ir1,180,IV,2018,November
- salvador san, ir2,92,IV,2018,November
- salvador san, ir5,106,IV,2018,November
- salvador san, su3,1,IV,2018,November
+ san jose, cr1,10,IV,2018,November
+ san jose, cr2,1,IV,2018,November
+ san jose, dv1,1,IV,2018,November
+ san jose, dv2,1,IV,2018,November
+ san jose, e31,1,IV,2018,November
+ san jose, e34,1,IV,2018,November
+ san jose, e35,1,IV,2018,November
+ san jose, f11,3,IV,2018,November
+ san jose, f21,1,IV,2018,November
+ san jose, f22,2,IV,2018,November
+ san jose, f31,1,IV,2018,November
+ san jose, f32,1,IV,2018,November
+ san jose, f33,2,IV,2018,November
+ san jose, f41,4,IV,2018,November
+ san jose, f42,2,IV,2018,November
+ san jose, f43,1,IV,2018,November
+ san jose, fx2,2,IV,2018,November
+ san jose, fx3,1,IV,2018,November
+ san jose, ib3,1,IV,2018,November
+ san jose, ih3,2,IV,2018,November
+ san jose, ir1,19,IV,2018,November
+ san jose, ir2,13,IV,2018,November
+ san jose, ir5,4,IV,2018,November
+ san salvador, cr1,68,IV,2018,November
+ san salvador, cr2,22,IV,2018,November
+ san salvador, e31,1,IV,2018,November
+ san salvador, ew3,2,IV,2018,November
+ san salvador, ew5,1,IV,2018,November
+ san salvador, f11,47,IV,2018,November
+ san salvador, f12,45,IV,2018,November
+ san salvador, f21,27,IV,2018,November
+ san salvador, f22,11,IV,2018,November
+ san salvador, f23,11,IV,2018,November
+ san salvador, f24,22,IV,2018,November
+ san salvador, f25,10,IV,2018,November
+ san salvador, f31,15,IV,2018,November
+ san salvador, f32,13,IV,2018,November
+ san salvador, f33,27,IV,2018,November
+ san salvador, f41,30,IV,2018,November
+ san salvador, f42,12,IV,2018,November
+ san salvador, f43,32,IV,2018,November
+ san salvador, fx1,74,IV,2018,November
+ san salvador, fx2,48,IV,2018,November
+ san salvador, fx3,57,IV,2018,November
+ san salvador, ib3,1,IV,2018,November
+ san salvador, ir1,180,IV,2018,November
+ san salvador, ir2,92,IV,2018,November
+ san salvador, ir5,106,IV,2018,November
+ san salvador, su3,1,IV,2018,November
  santiago, cr1,5,IV,2018,November
  santiago, f21,1,IV,2018,November
  santiago, f22,1,IV,2018,November
@@ -1983,32 +1983,32 @@ Post,VisaClass,Quantity,VisaType,Year,Month
  santiago, ir1,5,IV,2018,November
  santiago, ir2,2,IV,2018,November
  santiago, ir5,9,IV,2018,November
- domingo santo, cr1,379,IV,2018,November
- domingo santo, cr2,131,IV,2018,November
- domingo santo, e31,2,IV,2018,November
- domingo santo, e34,2,IV,2018,November
- domingo santo, e35,4,IV,2018,November
- domingo santo, f11,149,IV,2018,November
- domingo santo, f12,160,IV,2018,November
- domingo santo, f21,204,IV,2018,November
- domingo santo, f22,101,IV,2018,November
- domingo santo, f23,137,IV,2018,November
- domingo santo, f24,151,IV,2018,November
- domingo santo, f25,206,IV,2018,November
- domingo santo, f31,24,IV,2018,November
- domingo santo, f32,24,IV,2018,November
- domingo santo, f33,37,IV,2018,November
- domingo santo, f41,61,IV,2018,November
- domingo santo, f42,29,IV,2018,November
- domingo santo, f43,51,IV,2018,November
- domingo santo, fx1,321,IV,2018,November
- domingo santo, fx2,165,IV,2018,November
- domingo santo, fx3,279,IV,2018,November
- domingo santo, ib3,11,IV,2018,November
- domingo santo, ir1,243,IV,2018,November
- domingo santo, ir2,343,IV,2018,November
- domingo santo, ir5,435,IV,2018,November
- domingo santo, iw1,1,IV,2018,November
+ santo domingo, cr1,379,IV,2018,November
+ santo domingo, cr2,131,IV,2018,November
+ santo domingo, e31,2,IV,2018,November
+ santo domingo, e34,2,IV,2018,November
+ santo domingo, e35,4,IV,2018,November
+ santo domingo, f11,149,IV,2018,November
+ santo domingo, f12,160,IV,2018,November
+ santo domingo, f21,204,IV,2018,November
+ santo domingo, f22,101,IV,2018,November
+ santo domingo, f23,137,IV,2018,November
+ santo domingo, f24,151,IV,2018,November
+ santo domingo, f25,206,IV,2018,November
+ santo domingo, f31,24,IV,2018,November
+ santo domingo, f32,24,IV,2018,November
+ santo domingo, f33,37,IV,2018,November
+ santo domingo, f41,61,IV,2018,November
+ santo domingo, f42,29,IV,2018,November
+ santo domingo, f43,51,IV,2018,November
+ santo domingo, fx1,321,IV,2018,November
+ santo domingo, fx2,165,IV,2018,November
+ santo domingo, fx3,279,IV,2018,November
+ santo domingo, ib3,11,IV,2018,November
+ santo domingo, ir1,243,IV,2018,November
+ santo domingo, ir2,343,IV,2018,November
+ santo domingo, ir5,435,IV,2018,November
+ santo domingo, iw1,1,IV,2018,November
  sarajevo, cr1,2,IV,2018,November
  sarajevo, dv1,1,IV,2018,November
  sarajevo, dv2,1,IV,2018,November
