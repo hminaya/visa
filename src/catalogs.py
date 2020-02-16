@@ -3,8 +3,8 @@ import os
 import pandas as pd
 import numpy as np
 
-iv_catalog = '/home/hminaya/Code/visa/data/catalog/iv_symbols.csv'
-niv_catalog = '/home/hminaya/Code/visa/data/catalog/niv_symbols.csv'
+iv_catalog = '../../data/catalog/iv_symbols.csv'
+niv_catalog = '../../data/catalog/niv_symbols.csv'
 
 def visa_class_catalog():
 

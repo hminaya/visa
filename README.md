@@ -55,3 +55,4 @@ Project Organization
 --------
 
 source /home/hminaya/anaconda3/bin/activate
+source ~/anaconde3/bin/activate
