@@ -1,6 +1,6 @@
 # Visa Issuance Dataset Playground
 
-This is a small python project I'm currently using to play around with Datasets. Currently I'm using publicly available data from travel.state.gov to read visa issuances by consulates abroad.
+This is a small python project I'm currently using to play around with Datasets. I'm using publicly available data from travel.state.gov to read visa issuances by consulates abroad.
 
 I've broken up the process into 4 python scripts you can run individually to extract, transform and load the data.
 
