@@ -1,5 +1,11 @@
 # Visa Issuance Dataset Playground
 
+This is a small python project I'm currently using to play around with Datasets. Currently I'm using publicly available data from travel.state.gov to read visa issuances by consulates abroad.
+
+I've broken up the process into 4 python scripts you can run individually to extract, transform and load the data.
+
+![](screenshot-consolidate.jpg "")
+
 ## Project Organization
 
     ├── data
@@ -24,7 +30,3 @@
            │── pdf_to_csv.py        <- Converts PDF files into CSV
            │── clean_csv.py         <- Cleans up csv files (Code is messy!)
            └── consolidate_csv.py   <- Consolidates data into 4 csv files
-
-## Sample Script
-
-![](screenshot-consolidate.jpg "")
